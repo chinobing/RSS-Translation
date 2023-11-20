@@ -126,7 +126,8 @@ def tran(sec):
         c=content
 
         c=c.replace('&lt;','') 
-        
+        c=c.replace('&gt;','') 
+
         f.write(c)
 
     print("GT: "+ url +" > "+ out_dir)
