@@ -100,24 +100,24 @@ def tran(sec):
         if idx >max_item:
                 e.decompose()
     
-    content= str(soup)
+    content= str(soup).replace("<![CDATA[","").replace("]]>","")
 
     #title, regex, translate
     title_regex = r"<title>(.*)<\/title>"
     _title_matches = re.finditer(title_regex, content, re.MULTILINE)
     title_matches = [match.group() for matchNum, match in enumerate(_title_matches, start=1)]
 
-    _trans_title = GT.translate([title_matches],target=target,source=source)
+    _trans_title = GT.translate(title_matches,target=target,source=source)
     trans_title = [title.translatedText for title in _trans_title]
     title_dict = dict(zip(title_matches, trans_title))
     content = multiple_replace(title_dict,content)
 
     #description, regex, translate
-    des_regex = r"<description>(.*)<\/description>"
+    des_regex = r"<description>([\s\S]*?)<\/description>"
     _des_matches = re.finditer(des_regex, content, re.MULTILINE)
     des_matches = [match.group() for matchNum, match in enumerate(_des_matches, start=1)]
 
-    _trans_des = GT.translate([des_matches],target=target,source=source)
+    _trans_des = GT.translate(des_matches,target=target,source=source)
     trans_des = [des.translatedText for des in _trans_des]
     des_dict = dict(zip(des_matches, trans_des))
     content = multiple_replace(des_dict,content)
