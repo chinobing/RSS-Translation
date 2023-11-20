@@ -6,6 +6,7 @@ import sys
 import os
 from urllib import request
 import urllib
+import re
 # pip install pygtrans -i https://pypi.org/simple
 # ref:https://zhuanlan.zhihu.com/p/390801784
 # ref:https://beautifulsoup.readthedocs.io/zh_CN/latest/
@@ -22,6 +23,13 @@ def get_md5_value(src):
 config = configparser.ConfigParser()
 config.read('test.ini',encoding='utf-8')
 secs=config.sections()
+
+# https://stackoverflow.com/questions/15175142/how-can-i-do-multiple-substitutions-using-regex
+def multiple_replace(replacements, text):
+    # Create a regular expression from the dictionary keys
+    regex = re.compile("(%s)" % "|".join(map(re.escape, replacements.keys())))
+    # For each match, look-up corresponding value in dictionary
+    return regex.sub(lambda mo: replacements[mo.group()], text) 
 
 
 
@@ -93,27 +101,32 @@ def tran(sec):
                 e.decompose()
     
     content= str(soup)
-    
-    content=content.replace('title>', 'stitle>')
-    content=content.replace( '<pubdate>','<pubDate><span translate="no">')
-    content=content.replace( '</pubdate>','</span></pubdate>')
-    # print(content)
-    
-    
-    _text = GT.translate(content,target=target,source=source)
-    
-    
+
+    #title, regex, translate
+    title_regex = r"<title>(.*)<\/title>"
+    _title_matches = re.finditer(title_regex, content, re.MULTILINE)
+    title_matches = [match.group() for matchNum, match in enumerate(_title_matches, start=1)]
+
+    _trans_title = GT.translate([title_matches],target=target,source=source)
+    trans_title = [title.translatedText for title in _trans_title]
+    title_dict = dict(zip(title_matches, trans_title))
+    content = multiple_replace(title_dict,content)
+
+    #description, regex, translate
+    des_regex = r"<description>(.*)<\/description>"
+    _des_matches = re.finditer(des_regex, content, re.MULTILINE)
+    des_matches = [match.group() for matchNum, match in enumerate(_des_matches, start=1)]
+
+    _trans_des = GT.translate([des_matches],target=target,source=source)
+    trans_des = [des.translatedText for des in _trans_des]
+    des_dict = dict(zip(des_matches, trans_des))
+    content = multiple_replace(des_dict,content)
+
     with open(out_dir,'w',encoding='utf-8') as f:
-        c=_text.translatedText
-        
-        c=c.replace('stitle>', 'title>')
-        c=c.replace('<span translate="no">', '')
-        c=c.replace('</span></pubdate>', '</pubDate>') # 对于ttrss需要为pubDate才会识别正确
-        c=c.replace('&gt','>') # &gt 会影响识别
-        
+        c=content
+
         f.write(c)
-        #print(c)
-        #f.write(content)
+
     print("GT: "+ url +" > "+ out_dir)
 
 for x in secs[1:]:
