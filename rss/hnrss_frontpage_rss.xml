@@ -1,56 +1,56 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>黑客新闻：头版</title><link/>https://news.ycombinator.com/<description>黑客新闻 RSS</description><docs> https://hnrss.org/</docs><generator>人力资源服务 v2.1.1</generator><lastbuilddate> 2023 年 11 月 20 日星期一 09:59:00 +0000</lastbuilddate><atom:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml"></atom:link><item><description><![CDATA[
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>黑客新闻：头版</title><link/>https://news.ycombinator.com/<description>黑客新闻 RSS</description><docs> https://hnrss.org/</docs><generator>人力资源服务 v2.1.1</generator><lastbuilddate> 2023 年 11 月 20 日星期一 12:14:49 +0000</lastbuilddate><atom:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml"></atom:link><item><description><![CDATA[
+<p>Article URL: <a href="https://twitter.com/sama/status/1726543026846351702">https://twitter.com/sama/status/1726543026846351702</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38346330">https://news.ycombinator.com/item?id=38346330</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 11:12:11 +0000</pubdate><link/>https://twitter.com/sama/status/1726543026846351702<dc:creator>irakeshpurohit</dc:creator><comments>https://news.ycombinator.com/item?id=38346330</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38346330</guid></item><item><title><![CDATA[YouTube 在使用 Firefox 时人为地减慢视频加载时间]]></title><description><![CDATA[
+<p>Article URL: <a href="https://old.reddit.com/r/youtube/login/">https://old.reddit.com/r/youtube/login/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38345858">https://news.ycombinator.com/item?id=38345858</a></p>
+<p>Points: 624</p>
+<p># Comments: 188</p>
+]]></description><pubdate>Mon, 20 Nov 2023 10:16:14 +0000</pubdate><link/>https://old.reddit.com/r/youtube/login/<dc:creator>csvm</dc:creator><comments>https://news.ycombinator.com/item?id=38345858</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38345858</guid></item><item><title><![CDATA[Emmet Shear 作为 OpenAI 临时首席执行官的声明]]></title><description><![CDATA[
 <p>Article URL: <a href="https://twitter.com/eshear/status/1726526112019382275?s=46&t=a8Pjw_2Gzth_zpOPBTHQaw">https://twitter.com/eshear/status/1726526112019382275?s=46&t=a8Pjw_2Gzth_zpOPBTHQaw</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38345162">https://news.ycombinator.com/item?id=38345162</a></p>
-<p>Points: 46</p>
-<p># Comments: 16</p>
-]]></description><pubdate>Mon, 20 Nov 2023 09:07:27 +0000</pubdate><link/>https://twitter.com/eshear/status/1726526112019382275?s=46&amp;t=a8Pjw_2Gzth_zpOPBTHQaw<dc:creator>jk_tech</dc:creator><comments>https://news.ycombinator.com/item?id=38345162</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38345162</guid></item><item><title><![CDATA[微软：我们仍然致力于与 OpenAI 的合作伙伴关系]]></title><description><![CDATA[
-<p>Article URL: <a href="https://twitter.com/satyanadella/status/1726509045803336122?s=41">https://twitter.com/satyanadella/status/1726509045803336122?s=41</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38345115">https://news.ycombinator.com/item?id=38345115</a></p>
-<p>Points: 19</p>
-<p># Comments: 12</p>
-]]></description><pubdate>Mon, 20 Nov 2023 09:02:31 +0000</pubdate><link/>https://twitter.com/satyanadella/status/1726509045803336122?s=41<dc:creator>upwardbound</dc:creator><comments>https://news.ycombinator.com/item?id=38345115</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38345115</guid></item><item><title><![CDATA[Z80 与 8088 速度]]></title><description><![CDATA[
+<p>Points: 131</p>
+<p># Comments: 83</p>
+]]></description><pubdate>Mon, 20 Nov 2023 09:07:27 +0000</pubdate><link/>https://twitter.com/eshear/status/1726526112019382275?s=46&amp;t=a8Pjw_2Gzth_zpOPBTHQaw<dc:creator>jk_tech</dc:creator><comments>https://news.ycombinator.com/item?id=38345162</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38345162</guid></item><item><title><![CDATA[Z80 与 8088 速度]]></title><description><![CDATA[
 <p>Article URL: <a href="https://groups.google.com/g/comp.os.cpm/c/OG4tTERPtto/m/yC5iUh79CQAJ">https://groups.google.com/g/comp.os.cpm/c/OG4tTERPtto/m/yC5iUh79CQAJ</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38345053">https://news.ycombinator.com/item?id=38345053</a></p>
-<p>Points: 19</p>
-<p># Comments: 2</p>
+<p>Points: 46</p>
+<p># Comments: 23</p>
 ]]></description><pubdate>Mon, 20 Nov 2023 08:56:58 +0000</pubdate><link/>https://groups.google.com/g/comp.os.cpm/c/OG4tTERPtto/m/yC5iUh79CQAJ<dc:creator>CTOSian</dc:creator><comments>https://news.ycombinator.com/item?id=38345053</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38345053</guid></item><item><title><![CDATA[虚张声势的人月神话指南]]></title><description><![CDATA[
 <p>Article URL: <a href="https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/">https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38345017">https://news.ycombinator.com/item?id=38345017</a></p>
-<p>Points: 15</p>
-<p># Comments: 3</p>
+<p>Points: 43</p>
+<p># Comments: 20</p>
 ]]></description><pubdate>Mon, 20 Nov 2023 08:54:16 +0000</pubdate><link/>https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/<dc:creator>JazCE</dc:creator><comments>https://news.ycombinator.com/item?id=38345017</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38345017</guid></item><item><title><![CDATA[死星和最后的战壕奔跑 (2017)]]></title><description><![CDATA[
 <p>Article URL: <a href="http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html">http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344973">https://news.ycombinator.com/item?id=38344973</a></p>
-<p>Points: 49</p>
-<p># Comments: 4</p>
+<p>Points: 93</p>
+<p># Comments: 25</p>
 ]]></description><pubdate>Mon, 20 Nov 2023 08:50:53 +0000</pubdate><link/>http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html<dc:creator>BerislavLopac</dc:creator><comments>https://news.ycombinator.com/item?id=38344973</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344973</guid></item><item><title><![CDATA[Sam Altman、Greg Brockman 等人加入微软]]></title><description><![CDATA[
 <p>Article URL: <a href="https://twitter.com/satyanadella/status/1726509045803336122">https://twitter.com/satyanadella/status/1726509045803336122</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344196">https://news.ycombinator.com/item?id=38344196</a></p>
-<p>Points: 768</p>
-<p># Comments: 643</p>
+<p>Points: 1066</p>
+<p># Comments: 903</p>
 ]]></description><pubdate>Mon, 20 Nov 2023 07:56:13 +0000</pubdate><link/>https://twitter.com/satyanadella/status/1726509045803336122<dc:creator>JimDabell</dc:creator><comments>https://news.ycombinator.com/item?id=38344196</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344196</guid></item><item><title><![CDATA[RSS可以用来发布各种信息]]></title><description><![CDATA[
 <p>Article URL: <a href="https://colinwalker.blog/blog/?date=2023-11-19">https://colinwalker.blog/blog/?date=2023-11-19</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343385">https://news.ycombinator.com/item?id=38343385</a></p>
-<p>Points: 80</p>
-<p># Comments: 51</p>
+<p>Points: 103</p>
+<p># Comments: 81</p>
 ]]></description><pubdate>Mon, 20 Nov 2023 06:29:01 +0000</pubdate><link/>https://colinwalker.blog/blog/?date=2023-11-19<dc:creator>walterbell</dc:creator><comments>https://news.ycombinator.com/item?id=38343385</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343385</guid></item><item><title><![CDATA[Krita AI 扩散]]></title><description><![CDATA[
 <p>Article URL: <a href="https://github.com/Acly/krita-ai-diffusion">https://github.com/Acly/krita-ai-diffusion</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38342670">https://news.ycombinator.com/item?id=38342670</a></p>
-<p>Points: 82</p>
-<p># Comments: 18</p>
+<p>Points: 179</p>
+<p># Comments: 66</p>
 ]]></description><pubdate>Mon, 20 Nov 2023 05:22:12 +0000</pubdate><link/>https://github.com/Acly/krita-ai-diffusion<dc:creator>unstuck3958</dc:creator><comments>https://news.ycombinator.com/item?id=38342670</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38342670</guid></item><item><title><![CDATA[Setenv 不是线程安全的，C 不想修复它]]></title><description><![CDATA[
 <p>Article URL: <a href="https://www.evanjones.ca/setenv-is-not-thread-safe.html">https://www.evanjones.ca/setenv-is-not-thread-safe.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38342642">https://news.ycombinator.com/item?id=38342642</a></p>
-<p>Points: 69</p>
-<p># Comments: 64</p>
+<p>Points: 90</p>
+<p># Comments: 114</p>
 ]]></description><pubdate>Mon, 20 Nov 2023 05:19:56 +0000</pubdate><link/>https://www.evanjones.ca/setenv-is-not-thread-safe.html<dc:creator>r4um</dc:creator><comments>https://news.ycombinator.com/item?id=38342642</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38342642</guid></item><item><title><![CDATA[在本地捕获并测试 AWS SES 电子邮件]]></title><description><![CDATA[
 <p>Article URL: <a href="https://github.com/kamranahmedse/local-ses">https://github.com/kamranahmedse/local-ses</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38341035">https://news.ycombinator.com/item?id=38341035</a></p>
-<p>Points: 38</p>
-<p># Comments: 10</p>
-]]></description><pubdate>Mon, 20 Nov 2023 01:38:46 +0000</pubdate><link/>https://github.com/kamranahmedse/local-ses<dc:creator>anonfunction</dc:creator><comments>https://news.ycombinator.com/item?id=38341035</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38341035</guid></item><item><title><![CDATA[朋友不要让朋友做出不好的图表]]></title><description><![CDATA[
-<p>Article URL: <a href="https://github.com/cxli233/FriendsDontLetFriends">https://github.com/cxli233/FriendsDontLetFriends</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38340226">https://news.ycombinator.com/item?id=38340226</a></p>
-<p>Points: 350</p>
-<p># Comments: 56</p>
-]]></description><pubdate>Mon, 20 Nov 2023 00:13:24 +0000</pubdate><link/>https://github.com/cxli233/FriendsDontLetFriends<dc:creator>ZunarJ5</dc:creator><comments>https://news.ycombinator.com/item?id=38340226</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38340226</guid></item></channel></rss>
+<p>Points: 44</p>
+<p># Comments: 13</p>
+]]></description><pubdate>Mon, 20 Nov 2023 01:38:46 +0000</pubdate><link/>https://github.com/kamranahmedse/local-ses<dc:creator>anonfunction</dc:creator><comments>https://news.ycombinator.com/item?id=38341035</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38341035</guid></item></channel></rss>
