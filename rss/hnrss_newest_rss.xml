@@ -1,4 +1,24 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>黑客新闻：最新</title><link/>https://news.ycombinator.com/newest<description>黑客新闻 RSS</description><docs> https://hnrss.org/</docs><generator>人力资源服务 v2.1.1</generator><lastbuilddate> 2023 年 11 月 20 日星期一 08:04:19 +0000 </lastbuilddate><atom:link href="https://hnrss.org/newest" rel="self" type="application/rss+xml"></atom:link><item><description><![CDATA[
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>黑客新闻：最新</title><link/>https://news.ycombinator.com/newest<description>黑客新闻 RSS</description><docs> https://hnrss.org/</docs><generator>人力资源服务 v2.1.1</generator><lastbuilddate> 2023 年 11 月 20 日星期一 08:14:21 +0000 </lastbuilddate><atom:link href="https://hnrss.org/newest" rel="self" type="application/rss+xml"></atom:link><item><description><![CDATA[
+<p>Article URL: <a href="https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai">https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344385">https://news.ycombinator.com/item?id=38344385</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:08:52 +0000</pubdate><link/>https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai<dc:creator>alvis</dc:creator><comments>https://news.ycombinator.com/item?id=38344385</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344385</guid></item><item><title><![CDATA[Sam Altman、Greg Brockman 将领导微软新的高级 AI 团队]]></title><description><![CDATA[
+<p>Article URL: <a href="https://twitter.com/satyanadella/status/1726509045803336122?s=20">https://twitter.com/satyanadella/status/1726509045803336122?s=20</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344373">https://news.ycombinator.com/item?id=38344373</a></p>
+<p>Points: 1</p>
+<p># Comments: 1</p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:08:32 +0000</pubdate><link/>https://twitter.com/satyanadella/status/1726509045803336122?s=20<dc:creator>hscodlsla</dc:creator><comments>https://news.ycombinator.com/item?id=38344373</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344373</guid></item><item><title><![CDATA[反坦克 Vespa]]></title><description><![CDATA[
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Vespa_150_TAP">https://en.wikipedia.org/wiki/Vespa_150_TAP</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344358">https://news.ycombinator.com/item?id=38344358</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:08:08 +0000</pubdate><link/>https://en.wikipedia.org/wiki/Vespa_150_TAP<dc:creator>vijaypatil</dc:creator><comments>https://news.ycombinator.com/item?id=38344358</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344358</guid></item><item><title><![CDATA[SatyaNadella 表示 SamAltman、Greg Brockman 将加入微软：彭博社]]></title><description><![CDATA[
+<p>Article URL: <a href="https://twitter.com/bqprime/status/1726511130187612536">https://twitter.com/bqprime/status/1726511130187612536</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344287">https://news.ycombinator.com/item?id=38344287</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:03:52 +0000</pubdate><link/>https://twitter.com/bqprime/status/1726511130187612536<dc:creator>kgwgk</dc:creator><comments>https://news.ycombinator.com/item?id=38344287</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344287</guid></item><item><title><![CDATA[迪士尼 Hotstar 吸引了 5900 万并发观众，创下新纪录]]></title><description><![CDATA[
 <p>Article URL: <a href="https://techcrunch.com/2023/11/19/india-and-australia-world-cup-final-shatters-streaming-records-on-hotstar/">https://techcrunch.com/2023/11/19/india-and-australia-world-cup-final-shatters-streaming-records-on-hotstar/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344265">https://news.ycombinator.com/item?id=38344265</a></p>
 <p>Points: 1</p>
@@ -6,13 +26,13 @@
 ]]></description><pubdate>Mon, 20 Nov 2023 08:01:54 +0000</pubdate><link/>https://techcrunch.com/2023/11/19/india-and-australia-world-cup-final-shatters-streaming-records-on-hotstar/<dc:creator>saikatsg</dc:creator><comments>https://news.ycombinator.com/item?id=38344265</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344265</guid></item><item><title><![CDATA[Sam Altman 和 Greg Brockman 即将加入 Microsoft]]></title><description><![CDATA[
 <p>Article URL: <a href="https://twitter.com/satyanadella/status/1726509045803336122?s=46&t=lf-Hfoet2O452zVobloOiA">https://twitter.com/satyanadella/status/1726509045803336122?s=46&t=lf-Hfoet2O452zVobloOiA</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344245">https://news.ycombinator.com/item?id=38344245</a></p>
-<p>Points: 1</p>
+<p>Points: 2</p>
 <p># Comments: 0</p>
 ]]></description><pubdate>Mon, 20 Nov 2023 08:00:47 +0000</pubdate><link/>https://twitter.com/satyanadella/status/1726509045803336122?s=46&amp;t=lf-Hfoet2O452zVobloOiA<dc:creator>mxschmitt</dc:creator><comments>https://news.ycombinator.com/item?id=38344245</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344245</guid></item><item><title><![CDATA[山姆回来了]]></title><description><![CDATA[
 <p>Article URL: <a href="https://twitter.com/sama/status/1726510261509779876">https://twitter.com/sama/status/1726510261509779876</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344232">https://news.ycombinator.com/item?id=38344232</a></p>
 <p>Points: 3</p>
-<p># Comments: 0</p>
+<p># Comments: 1</p>
 ]]></description><pubdate>Mon, 20 Nov 2023 07:59:24 +0000</pubdate><link/>https://twitter.com/sama/status/1726510261509779876<dc:creator>zaptheimpaler</dc:creator><comments>https://news.ycombinator.com/item?id=38344232</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344232</guid></item><item><title><![CDATA[向 Techbros 销售开发工具的经验教训]]></title><description><![CDATA[
 <p>Article URL: <a href="https://old.reddit.com/r/EntrepreneurRideAlong/comments/17zjfb4/turning_my_saas_into_a_vs_code_extension_making/">https://old.reddit.com/r/EntrepreneurRideAlong/comments/17zjfb4/turning_my_saas_into_a_vs_code_extension_making/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344220">https://news.ycombinator.com/item?id=38344220</a></p>
@@ -31,27 +51,6 @@
 ]]></description><pubdate>Mon, 20 Nov 2023 07:58:08 +0000</pubdate><link/>https://www.bloomberg.com/news/features/2023-11-20/the-design-history-of-london-s-mansion-block-apartment-buildings<dc:creator>zeristor</dc:creator><comments>https://news.ycombinator.com/item?id=38344213</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344213</guid></item><item><title><![CDATA[Sam Altman、Greg Brockman 等人加入微软]]></title><description><![CDATA[
 <p>Article URL: <a href="https://twitter.com/satyanadella/status/1726509045803336122">https://twitter.com/satyanadella/status/1726509045803336122</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344196">https://news.ycombinator.com/item?id=38344196</a></p>
-<p>Points: 89</p>
-<p># Comments: 13</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:56:13 +0000</pubdate><link/>https://twitter.com/satyanadella/status/1726509045803336122<dc:creator>JimDabell</dc:creator><comments>https://news.ycombinator.com/item?id=38344196</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344196</guid></item><item><title><![CDATA[显示 HN：新推出的 OrionStar-Yi-34B-Chat 击败 Llama2-70B 和 GPT-3.5-turbo]]></title><description><![CDATA[
-<p>OrionStar-Yi-34B-Chat from OrionStarAI is based on the open-source Yi-34B model, fine-tuned on a high-quality corpus of over 15 million sentences. OrionStar-Yi-34B-Chat aims to provide an excellent interactive experience for users in the large model community.<p>The Yi series models, open-sourced by the 01-ai team, have shown impressive performance on various benchmarks in Chinese, English, and general domains. OrionStar-Yi-34B-Chat further explores the potential of Yi-34B. Through extensive fine-tuning on a large and high-quality corpus, OrionStar-Yi-34B-Chat performs exceptionally well on evaluation data. We strive to make it an outstanding open-source alternative in the ChatGPT domain!</p>
-<hr>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344178">https://news.ycombinator.com/item?id=38344178</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:53:44 +0000</pubdate><link/>https://huggingface.co/OrionStarAI/OrionStar-Yi-34B-Chat/blob/main/README_en.md<dc:creator>AIBrainstormGPT</dc:creator><comments>https://news.ycombinator.com/item?id=38344178</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344178</guid></item><item><title><![CDATA[保护森林瑞典的新在线工具使森林监测变得容易]]></title><description><![CDATA[
-<p>Article URL: <a href="https://www.fern.org/publications-insight/protect-the-forest-swedens-new-online-tool-makes-forest-monitoring-accessible/">https://www.fern.org/publications-insight/protect-the-forest-swedens-new-online-tool-makes-forest-monitoring-accessible/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344135">https://news.ycombinator.com/item?id=38344135</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:50:28 +0000</pubdate><link/>https://www.fern.org/publications-insight/protect-the-forest-swedens-new-online-tool-makes-forest-monitoring-accessible/<dc:creator>stareatgoats</dc:creator><comments>https://news.ycombinator.com/item?id=38344135</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344135</guid></item><item><title><![CDATA[&#39;哈马斯是恐怖组织吗？他们是恐怖组织吗？回答问题&#39;]]></title><description><![CDATA[
-<p>Article URL: <a href="https://www.medialens.org/2023/are-hamas-a-terror-group-are-they-a-terror-group-answer-the-question/">https://www.medialens.org/2023/are-hamas-a-terror-group-are-they-a-terror-group-answer-the-question/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344130">https://news.ycombinator.com/item?id=38344130</a></p>
-<p>Points: 2</p>
-<p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:50:20 +0000</pubdate><link/>https://www.medialens.org/2023/are-hamas-a-terror-group-are-they-a-terror-group-answer-the-question/<dc:creator>k1m</dc:creator><comments>https://news.ycombinator.com/item?id=38344130</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344130</guid></item><item><title><![CDATA[谈判失败后 Sam Altman 将不再担任 OpenAI 首席执行官 - 报道]]></title><description><![CDATA[
-<p>Article URL: <a href="https://www.theguardian.com/technology/2023/nov/20/sam-altman-openai-ceo-wont-return-chatgpt-talks-fail-emmett-shear-twitch">https://www.theguardian.com/technology/2023/nov/20/sam-altman-openai-ceo-wont-return-chatgpt-talks-fail-emmett-shear-twitch</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344077">https://news.ycombinator.com/item?id=38344077</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:44:08 +0000</pubdate><link/>https://www.theguardian.com/technology/2023/nov/20/sam-altman-openai-ceo-wont-return-chatgpt-talks-fail-emmett-shear-twitch<dc:creator>zoid_</dc:creator><comments>https://news.ycombinator.com/item?id=38344077</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344077</guid></item></channel></rss>
+<p>Points: 157</p>
+<p># Comments: 65</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:56:13 +0000</pubdate><link/>https://twitter.com/satyanadella/status/1726509045803336122<dc:creator>JimDabell</dc:creator><comments>https://news.ycombinator.com/item?id=38344196</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344196</guid></item></channel></rss>
