@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:jwplayer="http://developer.longtailvideo.com/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <atom:link href="https://pa.tedcdn.com/feeds/talks.rss?1700186398" rel="self" type="application/rss+xml" xmlns:atom10="http://www.w3.org/2005/Atom"></atom:link>
-<lastbuilddate>Mon, 20 Nov 2023 12:14:54 +0000</lastbuilddate>
+<lastbuilddate>Mon, 20 Nov 2023 13:18:49 +0000</lastbuilddate>
 <title>每日 TED 演讲（标清视频）</title>
 <link/>https://www.ted.com/talks
     <generator>TED - TED.com</generator>
-<description>TED 是一个致力于传播值得传播的想法的非营利组织。在此视频中，您将看到一些世界领先的思想家和实干家在 TED 会议、TEDx 活动和世界各地合作伙伴活动的舞台上发表演讲，激发、激发和激发他们的想象力。该播客还提供高清视频和纯音频格式。</description>
+<description>TED 是一个致力于传播值得传播的想法的非营利组织。在此视频中，您将看到 TED 演讲，这些演讲激发、激发和激发了一些世界领先的思想家和实干家的想象力，他们在 TED 会议、TEDx 活动和世界各地的合作伙伴活动的舞台上发表演讲。该播客还提供高清视频和纯音频格式。</description>
 <itunes:subtitle>Ideas worth spreading from the TED Conference</itunes:subtitle>
 <itunes:author>TED</itunes:author>
 <itunes:summary>TED is a nonprofit devoted to ideas worth spreading. On this video feed, you'll find TED Talks to inspire, intrigue and stir the imagination from some of the world's leading thinkers and doers, speaking from the stage at TED conferences, TEDx events and partner events around the world. This podcast is also available in high-def video and audio-only formats.</itunes:summary>
@@ -36,12 +36,10 @@
 <item>
 <title>驾驶电动车的秘密好处|辛西娅·威廉姆斯</title>
 <itunes:author>Cynthia Williams</itunes:author>
-<description>
-<![CDATA[Electric vehicles need to be more than just eco-friendly — they have to be more chic, convenient and affordable than their gas-powered alternatives, says sustainability leader Cynthia Williams. She explores what it'll take for an electric revolution to succeed in the US, calling on corporations, policy leaders, investors and more to collaborate in unprecedented ways.]]>
-</description>
+<description>可持续发展领导者辛西娅·威廉姆斯表示，电动汽车不仅要环保，还必须比汽油动力汽车更时尚、更方便、更实惠。她探讨了电力革命如何在美国取得成功，呼吁企业、政策领导人、投资者等以前所未有的方式进行合作。</description>
 <itunes:subtitle>The secret perks of driving electric | Cynthia Williams</itunes:subtitle>
 <itunes:summary>
-<![CDATA[Electric vehicles need to be more than just eco-friendly — they have to be more chic, convenient and affordable than their gas-powered alternatives, says sustainability leader Cynthia Williams. She explores what it'll take for an electric revolution to succeed in the US, calling on corporations, policy leaders, investors and more to collaborate in unprecedented ways.]]>
+Electric vehicles need to be more than just eco-friendly — they have to be more chic, convenient and affordable than their gas-powered alternatives, says sustainability leader Cynthia Williams. She explores what it'll take for an electric revolution to succeed in the US, calling on corporations, policy leaders, investors and more to collaborate in unprecedented ways.
 </itunes:summary>
 <enclosure length="" type="video/mp4" url="https://download.ted.com/products/172699.mp4?apikey=TEDRSS"></enclosure>
 <link/>https://www.ted.com/talks/cynthia_williams_the_secret_perks_of_driving_electric?rss
@@ -59,12 +57,10 @@
 <item>
 <title>你真的像你想象的那样擅长某件事吗？ |罗宾·克莱默</title>
 <itunes:author>Robin Kramer</itunes:author>
-<description>
-<![CDATA[Does confidence equal competence? Not quite. In a talk that will make you better aware of yourself, experimental psychologist Robin Kramer delves into the Dunning-Kruger effect — which argues that those who are least capable often overestimate their skills the most — and explores just how good you are at judging your own abilities.]]>
-</description>
+<description>信心等于能力吗？不完全的。在一场让你更好地了解自己的演讲中，实验心理学家罗宾·克莱默深入研究了邓宁-克鲁格效应——该效应认为，能力最弱的人往往最高估自己的技能——并探讨了你判断自己的能力有多强能力。</description>
 <itunes:subtitle>Are you really as good at something as you think? | Robin Kramer</itunes:subtitle>
 <itunes:summary>
-<![CDATA[Does confidence equal competence? Not quite. In a talk that will make you better aware of yourself, experimental psychologist Robin Kramer delves into the Dunning-Kruger effect — which argues that those who are least capable often overestimate their skills the most — and explores just how good you are at judging your own abilities.]]>
+Does confidence equal competence? Not quite. In a talk that will make you better aware of yourself, experimental psychologist Robin Kramer delves into the Dunning-Kruger effect — which argues that those who are least capable often overestimate their skills the most — and explores just how good you are at judging your own abilities.
 </itunes:summary>
 <enclosure length="" type="video/mp4" url="https://download.ted.com/products/173176.mp4?apikey=TEDRSS"></enclosure>
 <link/>https://www.ted.com/talks/robin_kramer_are_you_really_as_good_at_something_as_you_think?rss
@@ -82,12 +78,10 @@
 <item>
 <title>我们经济的真正黄金在我们手中|萨尔瓦多·卡利</title>
 <itunes:author>Salvatore Cali</itunes:author>
-<description>
-<![CDATA[The vast majority of our time at work is spent trudging through redundant and outdated workflows, says operations visionary Salvatore Cali. Laying out the most common time-wasting pitfalls, he urges policy leaders and businesses to reevaluate what they ask of both employees and consumers. "By rethinking the true purpose of each task, you will discover what is waste and what is the real gold of your company: the creation of value," says Cali.]]>
-</description>
+<description>运营远见卓识的萨尔瓦托·卡利 (Salvatore Cali) 表示，我们工作中的绝大多数时间都花在了冗余且过时的工作流程上。他列出了最常见的浪费时间的陷阱，敦促政策领导人和企业重新评估他们对员工和消费者的要求。 “通过重新思考每项任务的真正目的，你会发现什么是浪费，什么是公司真正的黄金：创造价值，”卡利说。</description>
 <itunes:subtitle>The real gold of our economy is in our hands | Salvatore Cali</itunes:subtitle>
 <itunes:summary>
-<![CDATA[The vast majority of our time at work is spent trudging through redundant and outdated workflows, says operations visionary Salvatore Cali. Laying out the most common time-wasting pitfalls, he urges policy leaders and businesses to reevaluate what they ask of both employees and consumers. "By rethinking the true purpose of each task, you will discover what is waste and what is the real gold of your company: the creation of value," says Cali.]]>
+The vast majority of our time at work is spent trudging through redundant and outdated workflows, says operations visionary Salvatore Cali. Laying out the most common time-wasting pitfalls, he urges policy leaders and businesses to reevaluate what they ask of both employees and consumers. "By rethinking the true purpose of each task, you will discover what is waste and what is the real gold of your company: the creation of value," says Cali.
 </itunes:summary>
 <enclosure length="" type="video/mp4" url="https://download.ted.com/products/172415.mp4?apikey=TEDRSS"></enclosure>
 <link/>https://www.ted.com/talks/salvatore_cali_the_real_gold_of_our_economy_is_in_our_hands?rss
@@ -105,12 +99,10 @@
 <item>
 <title>为什么你应该抛弃致命的化石燃料设备？唐纳尔·贝尔德</title>
 <itunes:author>Donnel Baird</itunes:author>
-<description>
-<![CDATA[In the US, people spend the overwhelming majority of their time inside buildings that burn fossil fuels, which are bad for both the environment and human health. (Think: breathing in air pollution from gas stoves, furnaces and water heaters.) If we're going to fix this problem, we need to retrofit millions of buildings with all-electric equipment, says energy upgrader Donnel Baird. Hear about his ambitious plan to rip the fossil fuel infrastructure out of aging buildings and upgrade it with smarter, cleaner, healthier technology.]]>
-</description>
+<description>在美国，人们绝大多数时间都在燃烧化石燃料的建筑物内度过，这对环境和人类健康都有害。 （想一想：吸入燃气灶、火炉和热水器带来的空气污染。）如果我们要解决这个问题，我们需要用全电气设备改造数百万座建筑物，能源升级专家唐纳尔·贝尔德（Donnel Baird）说。听听他雄心勃勃的计划，即拆除老化建筑中的化石燃料基础设施，并采用更智能、更清洁、更健康的技术对其进行升级。</description>
 <itunes:subtitle>Why you should ditch deadly fossil-fuel appliances | Donnel Baird</itunes:subtitle>
 <itunes:summary>
-<![CDATA[In the US, people spend the overwhelming majority of their time inside buildings that burn fossil fuels, which are bad for both the environment and human health. (Think: breathing in air pollution from gas stoves, furnaces and water heaters.) If we're going to fix this problem, we need to retrofit millions of buildings with all-electric equipment, says energy upgrader Donnel Baird. Hear about his ambitious plan to rip the fossil fuel infrastructure out of aging buildings and upgrade it with smarter, cleaner, healthier technology.]]>
+In the US, people spend the overwhelming majority of their time inside buildings that burn fossil fuels, which are bad for both the environment and human health. (Think: breathing in air pollution from gas stoves, furnaces and water heaters.) If we're going to fix this problem, we need to retrofit millions of buildings with all-electric equipment, says energy upgrader Donnel Baird. Hear about his ambitious plan to rip the fossil fuel infrastructure out of aging buildings and upgrade it with smarter, cleaner, healthier technology.
 </itunes:summary>
 <enclosure length="" type="video/mp4" url="https://download.ted.com/products/172696.mp4?apikey=TEDRSS"></enclosure>
 <link/>https://www.ted.com/talks/donnel_baird_why_you_should_ditch_deadly_fossil_fuel_appliances?rss
@@ -128,12 +120,10 @@
 <item>
 <title>“中年危机”的替代方案|奇普·康利</title>
 <itunes:author>Chip Conley</itunes:author>
-<description>
-<![CDATA[Midlife doesn't have to be a scary time, says entrepreneur Chip Conley. In this short yet profound talk, he takes inspiration from the natural world to reframe our 40s, 50s and 60s as a transitional stage that's full of grace and beauty — and urges us all to make aging aspirational.]]>
-</description>
+<description>企业家奇普·康利 (Chip Conley) 表示，中年并不一定是一段可怕的时期。在这个简短而深刻的演讲中，他从自然世界中汲取灵感，将我们的 40 岁、50 岁和 60 岁重新定义为一个充满优雅和美丽的过渡阶段，并敦促我们所有人让变老成为理想。</description>
 <itunes:subtitle>An alternative to the "midlife crisis" | Chip Conley</itunes:subtitle>
 <itunes:summary>
-<![CDATA[Midlife doesn't have to be a scary time, says entrepreneur Chip Conley. In this short yet profound talk, he takes inspiration from the natural world to reframe our 40s, 50s and 60s as a transitional stage that's full of grace and beauty — and urges us all to make aging aspirational.]]>
+Midlife doesn't have to be a scary time, says entrepreneur Chip Conley. In this short yet profound talk, he takes inspiration from the natural world to reframe our 40s, 50s and 60s as a transitional stage that's full of grace and beauty — and urges us all to make aging aspirational.
 </itunes:summary>
 <enclosure length="" type="video/mp4" url="https://download.ted.com/products/171297.mp4?apikey=TEDRSS"></enclosure>
 <link/>https://www.ted.com/talks/chip_conley_an_alternative_to_the_midlife_crisis?rss
@@ -151,12 +141,10 @@
 <item>
 <title>灵性与气候变化的意想不到的联系|戈帕尔·D·帕特尔</title>
 <itunes:author>Gopal D. Patel</itunes:author>
-<description>
-<![CDATA[Environmental activist Gopal D. Patel thinks the climate movement could learn a lot from one of the longest-standing social initiatives in human history: religion. Exploring three areas where frameworks from faith traditions could benefit the climate movement, Patel offers a playbook for discovering your big idea to build momentum towards powerful social change.]]>
-</description>
+<description>环保活动家戈帕尔·D·帕特尔认为，气候运动可以从人类历史上最悠久的社会倡议之一：宗教中学到很多东西。帕特尔探索了信仰传统框架可以使气候运动受益的三个领域，并提供了一本剧本，帮助您发现伟大的想法，为强大的社会变革建立动力。</description>
 <itunes:subtitle>The unexpected way spirituality connects to climate change | Gopal D. Patel</itunes:subtitle>
 <itunes:summary>
-<![CDATA[Environmental activist Gopal D. Patel thinks the climate movement could learn a lot from one of the longest-standing social initiatives in human history: religion. Exploring three areas where frameworks from faith traditions could benefit the climate movement, Patel offers a playbook for discovering your big idea to build momentum towards powerful social change.]]>
+Environmental activist Gopal D. Patel thinks the climate movement could learn a lot from one of the longest-standing social initiatives in human history: religion. Exploring three areas where frameworks from faith traditions could benefit the climate movement, Patel offers a playbook for discovering your big idea to build momentum towards powerful social change.
 </itunes:summary>
 <enclosure length="" type="video/mp4" url="https://download.ted.com/products/171090.mp4?apikey=TEDRSS"></enclosure>
 <link/>https://www.ted.com/talks/gopal_d_patel_the_unexpected_way_spirituality_connects_to_climate_change?rss
@@ -174,12 +162,10 @@
 <item>
 <title>是时候重新思考第一夫人的角色了 |伊琳娜·卡拉马诺斯·阿德里安</title>
 <itunes:author>Irina Karamanos Adrian</itunes:author>
-<description>
-<![CDATA[Irina Karamanos Adrian didn't plan on becoming Chile's First Lady — but she set out to transform the role all the same. She shares how she's fighting gender stereotypes and protecting democracy by shifting political power back to where it belongs: to people who were actually elected.]]>
-</description>
+<description>伊琳娜·卡拉马诺斯·阿德里安并不打算成为智利第一夫人，但她仍然打算改变这个角色。她分享了她如何通过将政治权力转移回其所属的地方：真正当选的人来对抗性别陈规定型观念并保护民主。</description>
 <itunes:subtitle>It's time to rethink the role of First Lady | Irina Karamanos Adrian</itunes:subtitle>
 <itunes:summary>
-<![CDATA[Irina Karamanos Adrian didn't plan on becoming Chile's First Lady — but she set out to transform the role all the same. She shares how she's fighting gender stereotypes and protecting democracy by shifting political power back to where it belongs: to people who were actually elected.]]>
+Irina Karamanos Adrian didn't plan on becoming Chile's First Lady — but she set out to transform the role all the same. She shares how she's fighting gender stereotypes and protecting democracy by shifting political power back to where it belongs: to people who were actually elected.
 </itunes:summary>
 <enclosure length="" type="video/mp4" url="https://download.ted.com/products/173044.mp4?apikey=TEDRSS"></enclosure>
 <link/>https://www.ted.com/talks/irina_karamanos_adrian_it_s_time_to_rethink_the_role_of_first_lady?rss
@@ -197,12 +183,10 @@
 <item>
 <title>职业生涯中期重返校园？这是您需要了解的 |坎迪斯·内芙</title>
 <itunes:author>Candice Neveu</itunes:author>
-<description>
-<![CDATA[Are you thinking of returning to school? Educator Candice Neveu shares three challenges you might face continuing your education mid-career — and three mindset shifts to speed up your learning, improve your confidence and achieve the results you want.]]>
-</description>
+<description>您考虑重返学校吗？教育家 Candice Neveu 分享了您在职业生涯中期继续接受教育可能面临的三个挑战，以及加快学习速度、增强信心并实现您想要的结果的三个心态转变。</description>
 <itunes:subtitle>Returning to school mid-career? Here's what you need to know  | Candice Neveu</itunes:subtitle>
 <itunes:summary>
-<![CDATA[Are you thinking of returning to school? Educator Candice Neveu shares three challenges you might face continuing your education mid-career — and three mindset shifts to speed up your learning, improve your confidence and achieve the results you want.]]>
+Are you thinking of returning to school? Educator Candice Neveu shares three challenges you might face continuing your education mid-career — and three mindset shifts to speed up your learning, improve your confidence and achieve the results you want.
 </itunes:summary>
 <enclosure length="" type="video/mp4" url="https://download.ted.com/products/172564.mp4?apikey=TEDRSS"></enclosure>
 <link/>https://www.ted.com/talks/candice_neveu_returning_to_school_mid_career_here_s_what_you_need_to_know?rss
@@ -220,12 +204,10 @@
 <item>
 <title>人工智能竞争的阴暗面 |丽芙·博瑞</title>
 <itunes:author>Liv Boeree</itunes:author>
-<description>
-<![CDATA[Competition is a core part of human nature, and it can drive us to extraordinary feats. But when it goes wrong, the results can be devastating. Poker champion and science communicator Liv Boeree introduces us to "Moloch's trap" — the dark force of game theory driving many of humanity's biggest social problems, which is now threatening to derail the AI industry.]]>
-</description>
+<description>竞争是人性的核心部分，它可以驱使我们取得非凡的成就。但当出现问题时，结果可能是毁灭性的。扑克冠军兼科学传播者 Liv Boeree 向我们介绍了“摩洛赫陷阱”——博弈论的黑暗力量推动了人类许多最大的社会问题，现在正威胁着人工智能行业的发展。</description>
 <itunes:subtitle>The dark side of competition in AI | Liv Boeree</itunes:subtitle>
 <itunes:summary>
-<![CDATA[Competition is a core part of human nature, and it can drive us to extraordinary feats. But when it goes wrong, the results can be devastating. Poker champion and science communicator Liv Boeree introduces us to "Moloch's trap" — the dark force of game theory driving many of humanity's biggest social problems, which is now threatening to derail the AI industry.]]>
+Competition is a core part of human nature, and it can drive us to extraordinary feats. But when it goes wrong, the results can be devastating. Poker champion and science communicator Liv Boeree introduces us to "Moloch's trap" — the dark force of game theory driving many of humanity's biggest social problems, which is now threatening to derail the AI industry.
 </itunes:summary>
 <enclosure length="" type="video/mp4" url="https://download.ted.com/products/172569.mp4?apikey=TEDRSS"></enclosure>
 <link/>https://www.ted.com/talks/liv_boeree_the_dark_side_of_competition_in_ai?rss
@@ -243,12 +225,10 @@
 <item>
 <title>超越人类感知极限的自然摄影 |多丽丝·米奇</title>
 <itunes:author>Doris Mitsch</itunes:author>
-<description>
-<![CDATA[Artist Doris Mitsch invites us to revel in the wonders of nature through her dazzling photography: stacked images of starlings in flight, hawks surfing thermal updrafts, bats echolocating through the night sky and more. Revealing the hidden trails created by creatures in flight, her work offers unique insight into the intelligence behind nature's invisible rhythms.]]>
-</description>
+<description>艺术家多丽丝·米奇 (Doris Mitsch) 邀请我们通过她令人眼花缭乱的摄影作品来陶醉于自然奇观：飞行中的八哥、在热上升气流中冲浪的鹰、在夜空中回声定位的蝙蝠等的堆叠图像。她的作品揭示了飞行中的生物留下的隐藏踪迹，为了解大自然无形节奏背后的智慧提供了独特的见解。</description>
 <itunes:subtitle>Photographing nature beyond the limits of human perception | Doris Mitsch</itunes:subtitle>
 <itunes:summary>
-<![CDATA[Artist Doris Mitsch invites us to revel in the wonders of nature through her dazzling photography: stacked images of starlings in flight, hawks surfing thermal updrafts, bats echolocating through the night sky and more. Revealing the hidden trails created by creatures in flight, her work offers unique insight into the intelligence behind nature's invisible rhythms.]]>
+Artist Doris Mitsch invites us to revel in the wonders of nature through her dazzling photography: stacked images of starlings in flight, hawks surfing thermal updrafts, bats echolocating through the night sky and more. Revealing the hidden trails created by creatures in flight, her work offers unique insight into the intelligence behind nature's invisible rhythms.
 </itunes:summary>
 <enclosure length="" type="video/mp4" url="https://download.ted.com/products/172072.mp4?apikey=TEDRSS"></enclosure>
 <link/>https://www.ted.com/talks/doris_mitsch_photographing_nature_beyond_the_limits_of_human_perception?rss
@@ -266,12 +246,10 @@
 <item>
 <title>技术是我们的救世主，还是我们的杀手？ |鲁哈·本杰明</title>
 <itunes:author>Ruha Benjamin</itunes:author>
-<description>
-<![CDATA[When it comes to technology, we're often presented with two contrasting visions of the future: one where technology fulfills all our desires, and another where it leads to chaos and conflict. Sociologist Ruha Benjamin is here with a more radical vision of the future — one where humanity isn't saved or slayed by technology, but rather uses it to uplift ordinary people and make things like health care and housing for all a reality.]]>
-</description>
+<description>当谈到技术时，我们经常会看到两种截然不同的未来愿景：一种是技术满足我们所有的愿望，另一种是技术导致混乱和冲突。社会学家鲁哈·本杰明带着对未来更加激进的愿景——人类不会被技术拯救或杀死，而是利用技术来提升普通人的生活水平，让所有人的医疗保健和住房等事情成为现实。</description>
 <itunes:subtitle> Is technology our savior — or our slayer? | Ruha Benjamin</itunes:subtitle>
 <itunes:summary>
-<![CDATA[When it comes to technology, we're often presented with two contrasting visions of the future: one where technology fulfills all our desires, and another where it leads to chaos and conflict. Sociologist Ruha Benjamin is here with a more radical vision of the future — one where humanity isn't saved or slayed by technology, but rather uses it to uplift ordinary people and make things like health care and housing for all a reality.]]>
+When it comes to technology, we're often presented with two contrasting visions of the future: one where technology fulfills all our desires, and another where it leads to chaos and conflict. Sociologist Ruha Benjamin is here with a more radical vision of the future — one where humanity isn't saved or slayed by technology, but rather uses it to uplift ordinary people and make things like health care and housing for all a reality.
 </itunes:summary>
 <enclosure length="" type="video/mp4" url="https://download.ted.com/products/172608.mp4?apikey=TEDRSS"></enclosure>
 <link/>https://www.ted.com/talks/ruha_benjamin_is_technology_our_savior_or_our_slayer?rss
