@@ -14,3 +14,4 @@
  - source001 [https://hnrss.org/frontpage](https://hnrss.org/frontpage) -> [hnrss_frontpage_rss.xml](rss/hnrss_frontpage_rss.xml)
  - source002 [https://hnrss.org/newest](https://hnrss.org/newest) -> [hnrss_newest_rss.xml](rss/hnrss_newest_rss.xml)
  - source003 [https://www.ted.com/feeds/talks.rss](https://www.ted.com/feeds/talks.rss) -> [ted_talks_rss.xml](rss/ted_talks_rss.xml)
+ - source004 [https://www.reddit.com/.rss](https://www.reddit.com/.rss) -> [reddit_front_page.xml](rss/reddit_front_page.xml)
