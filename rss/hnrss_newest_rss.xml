@@ -1,58 +1,57 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>黑客新闻：最新</title><link/>https://news.ycombinator.com/newest<description>黑客新闻 RSS</description><docs> https://hnrss.org/</docs><generator>人力资源服务 v2.1.1</generator><lastbuilddate> 2023 年 11 月 20 日星期一 07:44:13 +0000 </lastbuilddate><atom:link href="https://hnrss.org/newest" rel="self" type="application/rss+xml"></atom:link><item><description><![CDATA[
-<p>Article URL: <a href="https://standupeconomist.com/pdf/misc/interstellar.pdf">https://standupeconomist.com/pdf/misc/interstellar.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344026">https://news.ycombinator.com/item?id=38344026</a></p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>黑客新闻：最新</title><link/>https://news.ycombinator.com/newest<description>黑客新闻 RSS</description><docs> https://hnrss.org/</docs><generator>人力资源服务 v2.1.1</generator><lastbuilddate> 2023 年 11 月 20 日星期一 08:04:19 +0000 </lastbuilddate><atom:link href="https://hnrss.org/newest" rel="self" type="application/rss+xml"></atom:link><item><description><![CDATA[
+<p>Article URL: <a href="https://techcrunch.com/2023/11/19/india-and-australia-world-cup-final-shatters-streaming-records-on-hotstar/">https://techcrunch.com/2023/11/19/india-and-australia-world-cup-final-shatters-streaming-records-on-hotstar/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344265">https://news.ycombinator.com/item?id=38344265</a></p>
 <p>Points: 1</p>
 <p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:38:50 +0000</pubdate><link/>https://standupeconomist.com/pdf/misc/interstellar.pdf<dc:creator>jamager</dc:creator><comments>https://news.ycombinator.com/item?id=38344026</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344026</guid></item><item><title>![CDATA[问 HN：如果你在 ChatGPT 上建立了一家初创公司，你现在有多担心？]]</title><description><![CDATA[
-<p>Over the past year or so, quite a few people built relatively successful, small startups on top of ChatGPT. For those of you who fall into this category or who are in the process of developing/launching a startup that falls into this category, how worried are you after the drama that has unfolded since Friday? Can you give insight as to why you are/are not worried?<p>Just to clarify, I am not referring to people who had existing startups and added a feature to their startup that uses ChatGPT. I am specifically referring to those people where ChatGPT is central to your startup, and your startup would not exist if not for ChatGPT.<p>The AI startup wave passed me, so I have no horse in this race. I am also not very clued up on all the AI technologies, so forgive my ignorance. To me, it seems that this would be concerning if I had a startup that existed purely because of ChatGPT.</p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:01:54 +0000</pubdate><link/>https://techcrunch.com/2023/11/19/india-and-australia-world-cup-final-shatters-streaming-records-on-hotstar/<dc:creator>saikatsg</dc:creator><comments>https://news.ycombinator.com/item?id=38344265</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344265</guid></item><item><title><![CDATA[Sam Altman 和 Greg Brockman 即将加入 Microsoft]]></title><description><![CDATA[
+<p>Article URL: <a href="https://twitter.com/satyanadella/status/1726509045803336122?s=46&t=lf-Hfoet2O452zVobloOiA">https://twitter.com/satyanadella/status/1726509045803336122?s=46&t=lf-Hfoet2O452zVobloOiA</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344245">https://news.ycombinator.com/item?id=38344245</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:00:47 +0000</pubdate><link/>https://twitter.com/satyanadella/status/1726509045803336122?s=46&amp;t=lf-Hfoet2O452zVobloOiA<dc:creator>mxschmitt</dc:creator><comments>https://news.ycombinator.com/item?id=38344245</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344245</guid></item><item><title><![CDATA[山姆回来了]]></title><description><![CDATA[
+<p>Article URL: <a href="https://twitter.com/sama/status/1726510261509779876">https://twitter.com/sama/status/1726510261509779876</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344232">https://news.ycombinator.com/item?id=38344232</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:59:24 +0000</pubdate><link/>https://twitter.com/sama/status/1726510261509779876<dc:creator>zaptheimpaler</dc:creator><comments>https://news.ycombinator.com/item?id=38344232</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344232</guid></item><item><title><![CDATA[向 Techbros 销售开发工具的经验教训]]></title><description><![CDATA[
+<p>Article URL: <a href="https://old.reddit.com/r/EntrepreneurRideAlong/comments/17zjfb4/turning_my_saas_into_a_vs_code_extension_making/">https://old.reddit.com/r/EntrepreneurRideAlong/comments/17zjfb4/turning_my_saas_into_a_vs_code_extension_making/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344220">https://news.ycombinator.com/item?id=38344220</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:58:38 +0000</pubdate><link/>https://old.reddit.com/r/EntrepreneurRideAlong/comments/17zjfb4/turning_my_saas_into_a_vs_code_extension_making/<dc:creator>muragekibicho</dc:creator><comments>https://news.ycombinator.com/item?id=38344220</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344220</guid></item><item><title><![CDATA[简短的 Ruby 新闻 – 第 #68 版]]></title><description><![CDATA[
+<p>Article URL: <a href="https://newsletter.shortruby.com/p/edition-68">https://newsletter.shortruby.com/p/edition-68</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344214">https://news.ycombinator.com/item?id=38344214</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:58:09 +0000</pubdate><link/>https://newsletter.shortruby.com/p/edition-68<dc:creator>gls2ro</dc:creator><comments>https://news.ycombinator.com/item?id=38344214</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344214</guid></item><item><title><![CDATA[伦敦的豪宅街区里堆满了公寓]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.bloomberg.com/news/features/2023-11-20/the-design-history-of-london-s-mansion-block-apartment-buildings">https://www.bloomberg.com/news/features/2023-11-20/the-design-history-of-london-s-mansion-block-apartment-buildings</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344213">https://news.ycombinator.com/item?id=38344213</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:58:08 +0000</pubdate><link/>https://www.bloomberg.com/news/features/2023-11-20/the-design-history-of-london-s-mansion-block-apartment-buildings<dc:creator>zeristor</dc:creator><comments>https://news.ycombinator.com/item?id=38344213</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344213</guid></item><item><title><![CDATA[Sam Altman、Greg Brockman 等人加入微软]]></title><description><![CDATA[
+<p>Article URL: <a href="https://twitter.com/satyanadella/status/1726509045803336122">https://twitter.com/satyanadella/status/1726509045803336122</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344196">https://news.ycombinator.com/item?id=38344196</a></p>
+<p>Points: 89</p>
+<p># Comments: 13</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:56:13 +0000</pubdate><link/>https://twitter.com/satyanadella/status/1726509045803336122<dc:creator>JimDabell</dc:creator><comments>https://news.ycombinator.com/item?id=38344196</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344196</guid></item><item><title><![CDATA[显示 HN：新推出的 OrionStar-Yi-34B-Chat 击败 Llama2-70B 和 GPT-3.5-turbo]]></title><description><![CDATA[
+<p>OrionStar-Yi-34B-Chat from OrionStarAI is based on the open-source Yi-34B model, fine-tuned on a high-quality corpus of over 15 million sentences. OrionStar-Yi-34B-Chat aims to provide an excellent interactive experience for users in the large model community.<p>The Yi series models, open-sourced by the 01-ai team, have shown impressive performance on various benchmarks in Chinese, English, and general domains. OrionStar-Yi-34B-Chat further explores the potential of Yi-34B. Through extensive fine-tuning on a large and high-quality corpus, OrionStar-Yi-34B-Chat performs exceptionally well on evaluation data. We strive to make it an outstanding open-source alternative in the ChatGPT domain!</p>
 <hr>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343998">https://news.ycombinator.com/item?id=38343998</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344178">https://news.ycombinator.com/item?id=38344178</a></p>
 <p>Points: 1</p>
 <p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:35:21 +0000</pubdate><link/>https://news.ycombinator.com/item?id=38343998<dc:creator>jerriep</dc:creator><comments>https://news.ycombinator.com/item?id=38343998</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343998</guid></item><item><title>![CDATA[Show HN: Dream Generator – AI 艺术乐趣]]</title><description><![CDATA[
-<p>Learn to draw quick with AI! It's an Android and iOS app that lets you generate and share AI. Let me know your thoughts!</p>
-<hr>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343989">https://news.ycombinator.com/item?id=38343989</a></p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:53:44 +0000</pubdate><link/>https://huggingface.co/OrionStarAI/OrionStar-Yi-34B-Chat/blob/main/README_en.md<dc:creator>AIBrainstormGPT</dc:creator><comments>https://news.ycombinator.com/item?id=38344178</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344178</guid></item><item><title><![CDATA[保护森林瑞典的新在线工具使森林监测变得容易]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.fern.org/publications-insight/protect-the-forest-swedens-new-online-tool-makes-forest-monitoring-accessible/">https://www.fern.org/publications-insight/protect-the-forest-swedens-new-online-tool-makes-forest-monitoring-accessible/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344135">https://news.ycombinator.com/item?id=38344135</a></p>
 <p>Points: 1</p>
 <p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:33:43 +0000</pubdate><link/>https://dreamgenerator.ai<dc:creator>h_tbob</dc:creator><comments>https://news.ycombinator.com/item?id=38343989</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343989</guid></item><item><title>![CDATA[Show HN：连接 Web2 和 Web3 的游戏规则改变者 SaaS – Postschain]]</title><description><![CDATA[
-<p>Article URL: <a href="https://postschain.com">https://postschain.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343972">https://news.ycombinator.com/item?id=38343972</a></p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:50:28 +0000</pubdate><link/>https://www.fern.org/publications-insight/protect-the-forest-swedens-new-online-tool-makes-forest-monitoring-accessible/<dc:creator>stareatgoats</dc:creator><comments>https://news.ycombinator.com/item?id=38344135</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344135</guid></item><item><title><![CDATA[&#39;哈马斯是恐怖组织吗？他们是恐怖组织吗？回答问题&#39;]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.medialens.org/2023/are-hamas-a-terror-group-are-they-a-terror-group-answer-the-question/">https://www.medialens.org/2023/are-hamas-a-terror-group-are-they-a-terror-group-answer-the-question/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344130">https://news.ycombinator.com/item?id=38344130</a></p>
+<p>Points: 2</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:50:20 +0000</pubdate><link/>https://www.medialens.org/2023/are-hamas-a-terror-group-are-they-a-terror-group-answer-the-question/<dc:creator>k1m</dc:creator><comments>https://news.ycombinator.com/item?id=38344130</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344130</guid></item><item><title><![CDATA[谈判失败后 Sam Altman 将不再担任 OpenAI 首席执行官 - 报道]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.theguardian.com/technology/2023/nov/20/sam-altman-openai-ceo-wont-return-chatgpt-talks-fail-emmett-shear-twitch">https://www.theguardian.com/technology/2023/nov/20/sam-altman-openai-ceo-wont-return-chatgpt-talks-fail-emmett-shear-twitch</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344077">https://news.ycombinator.com/item?id=38344077</a></p>
 <p>Points: 1</p>
 <p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:32:28 +0000</pubdate><link/>https://postschain.com<dc:creator>Palayoub</dc:creator><comments>https://news.ycombinator.com/item?id=38343972</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343972</guid></item><item><title>![CDATA[架构模式：断路器]]</title><description><![CDATA[
-<p>Article URL: <a href="https://lab.scub.net/architecture-patterns-the-circuit-breaker-8f79280771f1">https://lab.scub.net/architecture-patterns-the-circuit-breaker-8f79280771f1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343957">https://news.ycombinator.com/item?id=38343957</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:30:51 +0000</pubdate><link/>https://lab.scub.net/architecture-patterns-the-circuit-breaker-8f79280771f1<dc:creator>kiyanwang</dc:creator><comments>https://news.ycombinator.com/item?id=38343957</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343957</guid></item><item><title>![CDATA[拯救鲑鱼的十亿美元计划取决于巨型鱼真空]]</title><description><![CDATA[
-<p>Article URL: <a href="https://www.propublica.org/article/willamette-river-salmon-dams-usace">https://www.propublica.org/article/willamette-river-salmon-dams-usace</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343956">https://news.ycombinator.com/item?id=38343956</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:30:48 +0000</pubdate><link/>https://www.propublica.org/article/willamette-river-salmon-dams-usace<dc:creator>detaro</dc:creator><comments>https://news.ycombinator.com/item?id=38343956</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343956</guid></item><item><title>![CDATA[OpenAI 聘请 Twitch 联合创始人 Emmett Shear 担任临时首席执行官]]</title><description><![CDATA[
-<p>Article URL: <a href="https://www.msn.com/en-us/money/companies/openai-taps-twitch-co-founder-emmett-shear-as-interim-ceo/ar-AA1kcNkm">https://www.msn.com/en-us/money/companies/openai-taps-twitch-co-founder-emmett-shear-as-interim-ceo/ar-AA1kcNkm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343950">https://news.ycombinator.com/item?id=38343950</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:29:54 +0000</pubdate><link/>https://www.msn.com/en-us/money/companies/openai-taps-twitch-co-founder-emmett-shear-as-interim-ceo/ar-AA1kcNkm<dc:creator>pg_1234</dc:creator><comments>https://news.ycombinator.com/item?id=38343950</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343950</guid></item><item><title>![CDATA[架构模式：命令查询职责分离 (CQRS)]]</title><description><![CDATA[
-<p>Article URL: <a href="https://lab.scub.net/command-query-responsibility-segregation-cqrs-93e35d1929ec">https://lab.scub.net/command-query-responsibility-segregation-cqrs-93e35d1929ec</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343947">https://news.ycombinator.com/item?id=38343947</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:29:41 +0000</pubdate><link/>https://lab.scub.net/command-query-responsibility-segregation-cqrs-93e35d1929ec<dc:creator>kiyanwang</dc:creator><comments>https://news.ycombinator.com/item?id=38343947</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343947</guid></item><item><title>![CDATA[什么是单元测试？]]</title><description><![CDATA[
-<p>Article URL: <a href="https://tanzu.vmware.com/content/blog/what-is-a-unit-test-the-answer-might-surprise-you">https://tanzu.vmware.com/content/blog/what-is-a-unit-test-the-answer-might-surprise-you</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343944">https://news.ycombinator.com/item?id=38343944</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:29:28 +0000</pubdate><link/>https://tanzu.vmware.com/content/blog/what-is-a-unit-test-the-answer-might-surprise-you<dc:creator>mcp_</dc:creator><comments>https://news.ycombinator.com/item?id=38343944</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343944</guid></item><item><title>![CDATA[OpenAI 聘请 Emmett Shear（前 Twitch 员工）担任新任首席执行官]]</title><description><![CDATA[
-<p>Article URL: <a href="https://time.com/6337486/openai-new-ceo-emmett-shear-twitch/">https://time.com/6337486/openai-new-ceo-emmett-shear-twitch/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343942">https://news.ycombinator.com/item?id=38343942</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:28:55 +0000</pubdate><link/>https://time.com/6337486/openai-new-ceo-emmett-shear-twitch/<dc:creator>pg_1234</dc:creator><comments>https://news.ycombinator.com/item?id=38343942</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343942</guid></item><item><title>![CDATA[交互式 Common Lisp 开发]]</title><description><![CDATA[
-<p>Article URL: <a href="https://www.n16f.net/blog/interactive-common-lisp-development/">https://www.n16f.net/blog/interactive-common-lisp-development/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343933">https://news.ycombinator.com/item?id=38343933</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:27:42 +0000</pubdate><link/>https://www.n16f.net/blog/interactive-common-lisp-development/<dc:creator>billiob</dc:creator><comments>https://news.ycombinator.com/item?id=38343933</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343933</guid></item></channel></rss>
+]]></description><pubdate>Mon, 20 Nov 2023 07:44:08 +0000</pubdate><link/>https://www.theguardian.com/technology/2023/nov/20/sam-altman-openai-ceo-wont-return-chatgpt-talks-fail-emmett-shear-twitch<dc:creator>zoid_</dc:creator><comments>https://news.ycombinator.com/item?id=38344077</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344077</guid></item></channel></rss>
