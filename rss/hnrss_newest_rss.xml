@@ -1,0 +1,56 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>黑客新闻：最新</title><link/>https://news.ycombinator.com/newest<description>黑客新闻 RSS</description><docs> https://hnrss.org/</docs><generator>人力资源服务 v2.1.1</generator><lastbuilddate> 2023 年 11 月 20 日星期一 07:34:11 +0000 </lastbuilddate><atom:link href="https://hnrss.org/newest" rel="self" type="application/rss+xml"></atom:link><item><description><![CDATA[
+<p>Article URL: <a href="https://lab.scub.net/architecture-patterns-the-circuit-breaker-8f79280771f1">https://lab.scub.net/architecture-patterns-the-circuit-breaker-8f79280771f1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343957">https://news.ycombinator.com/item?id=38343957</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:30:51 +0000</pubdate><link/>https://lab.scub.net/architecture-patterns-the-circuit-breaker-8f79280771f1<dc:creator>kiyanwang</dc:creator><comments>https://news.ycombinator.com/item?id=38343957</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343957</guid></item><item><title>![CDATA[拯救鲑鱼的十亿美元计划取决于巨型鱼真空]]</title><description><![CDATA[
+<p>Article URL: <a href="https://www.propublica.org/article/willamette-river-salmon-dams-usace">https://www.propublica.org/article/willamette-river-salmon-dams-usace</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343956">https://news.ycombinator.com/item?id=38343956</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:30:48 +0000</pubdate><link/>https://www.propublica.org/article/willamette-river-salmon-dams-usace<dc:creator>detaro</dc:creator><comments>https://news.ycombinator.com/item?id=38343956</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343956</guid></item><item><title>![CDATA[OpenAI 聘请 Twitch 联合创始人 Emmett Shear 担任临时首席执行官]]</title><description><![CDATA[
+<p>Article URL: <a href="https://www.msn.com/en-us/money/companies/openai-taps-twitch-co-founder-emmett-shear-as-interim-ceo/ar-AA1kcNkm">https://www.msn.com/en-us/money/companies/openai-taps-twitch-co-founder-emmett-shear-as-interim-ceo/ar-AA1kcNkm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343950">https://news.ycombinator.com/item?id=38343950</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:29:54 +0000</pubdate><link/>https://www.msn.com/en-us/money/companies/openai-taps-twitch-co-founder-emmett-shear-as-interim-ceo/ar-AA1kcNkm<dc:creator>pg_1234</dc:creator><comments>https://news.ycombinator.com/item?id=38343950</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343950</guid></item><item><title>![CDATA[架构模式：命令查询职责分离 (CQRS)]]</title><description><![CDATA[
+<p>Article URL: <a href="https://lab.scub.net/command-query-responsibility-segregation-cqrs-93e35d1929ec">https://lab.scub.net/command-query-responsibility-segregation-cqrs-93e35d1929ec</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343947">https://news.ycombinator.com/item?id=38343947</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:29:41 +0000</pubdate><link/>https://lab.scub.net/command-query-responsibility-segregation-cqrs-93e35d1929ec<dc:creator>kiyanwang</dc:creator><comments>https://news.ycombinator.com/item?id=38343947</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343947</guid></item><item><title>![CDATA[什么是单元测试？]]</title><description><![CDATA[
+<p>Article URL: <a href="https://tanzu.vmware.com/content/blog/what-is-a-unit-test-the-answer-might-surprise-you">https://tanzu.vmware.com/content/blog/what-is-a-unit-test-the-answer-might-surprise-you</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343944">https://news.ycombinator.com/item?id=38343944</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:29:28 +0000</pubdate><link/>https://tanzu.vmware.com/content/blog/what-is-a-unit-test-the-answer-might-surprise-you<dc:creator>mcp_</dc:creator><comments>https://news.ycombinator.com/item?id=38343944</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343944</guid></item><item><title>![CDATA[OpenAI 聘请 Emmett Shear（前 Twitch 员工）担任新任首席执行官]]</title><description><![CDATA[
+<p>Article URL: <a href="https://time.com/6337486/openai-new-ceo-emmett-shear-twitch/">https://time.com/6337486/openai-new-ceo-emmett-shear-twitch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343942">https://news.ycombinator.com/item?id=38343942</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:28:55 +0000</pubdate><link/>https://time.com/6337486/openai-new-ceo-emmett-shear-twitch/<dc:creator>pg_1234</dc:creator><comments>https://news.ycombinator.com/item?id=38343942</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343942</guid></item><item><title>![CDATA[交互式 Common Lisp 开发]]</title><description><![CDATA[
+<p>Article URL: <a href="https://www.n16f.net/blog/interactive-common-lisp-development/">https://www.n16f.net/blog/interactive-common-lisp-development/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343933">https://news.ycombinator.com/item?id=38343933</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:27:42 +0000</pubdate><link/>https://www.n16f.net/blog/interactive-common-lisp-development/<dc:creator>billiob</dc:creator><comments>https://news.ycombinator.com/item?id=38343933</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343933</guid></item><item><title>![CDATA[为什么临床试验过程如此糟糕以及如何改进]]</title><description><![CDATA[
+<p>Article URL: <a href="https://bessstillman.substack.com/p/please-be-dying-but-not-too-quickly-837">https://bessstillman.substack.com/p/please-be-dying-but-not-too-quickly-837</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343916">https://news.ycombinator.com/item?id=38343916</a></p>
+<p>Points: 1</p>
+<p># Comments: 1</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:26:11 +0000</pubdate><link/>https://bessstillman.substack.com/p/please-be-dying-but-not-too-quickly-837<dc:creator>vwoolf</dc:creator><comments>https://news.ycombinator.com/item?id=38343916</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343916</guid></item><item><title>![CDATA[将一个小型项目从 Next 迁移到 Remix]]</title><description><![CDATA[
+<p>Article URL: <a href="https://old.reddit.com/r/reactjs/comments/17ysqus/migrated_a_smallish_project_from_next_to_remix/">https://old.reddit.com/r/reactjs/comments/17ysqus/migrated_a_smallish_project_from_next_to_remix/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343899">https://news.ycombinator.com/item?id=38343899</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:24:32 +0000</pubdate><link/>https://old.reddit.com/r/reactjs/comments/17ysqus/migrated_a_smallish_project_from_next_to_remix/<dc:creator>0xblinq</dc:creator><comments>https://news.ycombinator.com/item?id=38343899</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343899</guid></item><item><title>![CDATA[美国潜艇全面统治中国的时代正在结束]]</title><description><![CDATA[
+<p>Article URL: <a href="https://www.wsj.com/world/china/us-submarine-dominance-shift-china-8db10a0d">https://www.wsj.com/world/china/us-submarine-dominance-shift-china-8db10a0d</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343896">https://news.ycombinator.com/item?id=38343896</a></p>
+<p>Points: 1</p>
+<p># Comments: 1</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:24:26 +0000</pubdate><link/>https://www.wsj.com/world/china/us-submarine-dominance-shift-china-8db10a0d<dc:creator>vwoolf</dc:creator><comments>https://news.ycombinator.com/item?id=38343896</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343896</guid></item><item><title>![CDATA[沙特资金返回硅谷]]</title><description><![CDATA[
+<p>Article URL: <a href="https://www.vox.com/technology/2023/5/1/23702451/silicon-valley-saudi-money-khashoggi">https://www.vox.com/technology/2023/5/1/23702451/silicon-valley-saudi-money-khashoggi</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343878">https://news.ycombinator.com/item?id=38343878</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:21:48 +0000</pubdate><link/>https://www.vox.com/technology/2023/5/1/23702451/silicon-valley-saudi-money-khashoggi<dc:creator>RafelMri</dc:creator><comments>https://news.ycombinator.com/item?id=38343878</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343878</guid></item></channel></rss>

@@ -12,4 +12,4 @@
 ## 已转换翻译源
 
  - source001 [https://hnrss.org/frontpage](https://hnrss.org/frontpage) -> [hnrss_frontpage_rss.xml](rss/hnrss_frontpage_rss.xml)
- - source002 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_Top_Stories_rss.xml](rss/BBC_Top_Stories_rss.xml)
+ - source002 [https://hnrss.org/newest](https://hnrss.org/newest) -> [hnrss_newest_rss.xml](rss/hnrss_newest_rss.xml)
