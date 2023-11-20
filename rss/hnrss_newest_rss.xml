@@ -1,56 +1,57 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>黑客新闻：最新</title><link/>https://news.ycombinator.com/newest<description>黑客新闻 RSS</description><docs> https://hnrss.org/</docs><generator>人力资源服务 v2.1.1</generator><lastbuilddate> 2023 年 11 月 20 日星期一 08:14:21 +0000 </lastbuilddate><atom:link href="https://hnrss.org/newest" rel="self" type="application/rss+xml"></atom:link><item><description><![CDATA[
-<p>Article URL: <a href="https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai">https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344385">https://news.ycombinator.com/item?id=38344385</a></p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>黑客新闻：最新</title><link/>https://news.ycombinator.com/newest<description>黑客新闻 RSS</description><docs> https://hnrss.org/</docs><generator>人力资源服务 v2.1.1</generator><lastbuilddate> 2023 年 11 月 20 日星期一 08:44:47 +0000 </lastbuilddate><atom:link href="https://hnrss.org/newest" rel="self" type="application/rss+xml"></atom:link><item><description><![CDATA[
+<p>Article URL: <a href="https://abseil.io/fast/21">https://abseil.io/fast/21</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344822">https://news.ycombinator.com/item?id=38344822</a></p>
 <p>Points: 1</p>
 <p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 08:08:52 +0000</pubdate><link/>https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai<dc:creator>alvis</dc:creator><comments>https://news.ycombinator.com/item?id=38344385</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344385</guid></item><item><title><![CDATA[Sam Altman、Greg Brockman 将领导微软新的高级 AI 团队]]></title><description><![CDATA[
-<p>Article URL: <a href="https://twitter.com/satyanadella/status/1726509045803336122?s=20">https://twitter.com/satyanadella/status/1726509045803336122?s=20</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344373">https://news.ycombinator.com/item?id=38344373</a></p>
-<p>Points: 1</p>
-<p># Comments: 1</p>
-]]></description><pubdate>Mon, 20 Nov 2023 08:08:32 +0000</pubdate><link/>https://twitter.com/satyanadella/status/1726509045803336122?s=20<dc:creator>hscodlsla</dc:creator><comments>https://news.ycombinator.com/item?id=38344373</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344373</guid></item><item><title><![CDATA[反坦克 Vespa]]></title><description><![CDATA[
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Vespa_150_TAP">https://en.wikipedia.org/wiki/Vespa_150_TAP</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344358">https://news.ycombinator.com/item?id=38344358</a></p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:39:48 +0000</pubdate><link/>https://abseil.io/fast/21<dc:creator>EntICOnc</dc:creator><comments>https://news.ycombinator.com/item?id=38344822</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344822</guid></item><item><title><![CDATA[The Morning Brew #3827]]></title><description><![CDATA[
+<p>Article URL: <a href="https://blog.cwa.me.uk/2023/11/20/the-morning-brew-3827/">https://blog.cwa.me.uk/2023/11/20/the-morning-brew-3827/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344798">https://news.ycombinator.com/item?id=38344798</a></p>
 <p>Points: 1</p>
 <p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 08:08:08 +0000</pubdate><link/>https://en.wikipedia.org/wiki/Vespa_150_TAP<dc:creator>vijaypatil</dc:creator><comments>https://news.ycombinator.com/item?id=38344358</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344358</guid></item><item><title><![CDATA[SatyaNadella 表示 SamAltman、Greg Brockman 将加入微软：彭博社]]></title><description><![CDATA[
-<p>Article URL: <a href="https://twitter.com/bqprime/status/1726511130187612536">https://twitter.com/bqprime/status/1726511130187612536</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344287">https://news.ycombinator.com/item?id=38344287</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 08:03:52 +0000</pubdate><link/>https://twitter.com/bqprime/status/1726511130187612536<dc:creator>kgwgk</dc:creator><comments>https://news.ycombinator.com/item?id=38344287</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344287</guid></item><item><title><![CDATA[迪士尼 Hotstar 吸引了 5900 万并发观众，创下新纪录]]></title><description><![CDATA[
-<p>Article URL: <a href="https://techcrunch.com/2023/11/19/india-and-australia-world-cup-final-shatters-streaming-records-on-hotstar/">https://techcrunch.com/2023/11/19/india-and-australia-world-cup-final-shatters-streaming-records-on-hotstar/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344265">https://news.ycombinator.com/item?id=38344265</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 08:01:54 +0000</pubdate><link/>https://techcrunch.com/2023/11/19/india-and-australia-world-cup-final-shatters-streaming-records-on-hotstar/<dc:creator>saikatsg</dc:creator><comments>https://news.ycombinator.com/item?id=38344265</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344265</guid></item><item><title><![CDATA[Sam Altman 和 Greg Brockman 即将加入 Microsoft]]></title><description><![CDATA[
-<p>Article URL: <a href="https://twitter.com/satyanadella/status/1726509045803336122?s=46&t=lf-Hfoet2O452zVobloOiA">https://twitter.com/satyanadella/status/1726509045803336122?s=46&t=lf-Hfoet2O452zVobloOiA</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344245">https://news.ycombinator.com/item?id=38344245</a></p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:38:24 +0000</pubdate><link/>https://blog.cwa.me.uk/2023/11/20/the-morning-brew-3827/<dc:creator>unripe_syntax</dc:creator><comments>https://news.ycombinator.com/item?id=38344798</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344798</guid></item><item><title><![CDATA[确保 WordPress 网站网络安全的基本方法]]></title><description><![CDATA[
+<p>Article URL: <a href="https://wptangerine.com/ways-to-ensure-your-wordpress-sites-cybersecurity/">https://wptangerine.com/ways-to-ensure-your-wordpress-sites-cybersecurity/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344772">https://news.ycombinator.com/item?id=38344772</a></p>
 <p>Points: 2</p>
 <p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 08:00:47 +0000</pubdate><link/>https://twitter.com/satyanadella/status/1726509045803336122?s=46&amp;t=lf-Hfoet2O452zVobloOiA<dc:creator>mxschmitt</dc:creator><comments>https://news.ycombinator.com/item?id=38344245</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344245</guid></item><item><title><![CDATA[山姆回来了]]></title><description><![CDATA[
-<p>Article URL: <a href="https://twitter.com/sama/status/1726510261509779876">https://twitter.com/sama/status/1726510261509779876</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344232">https://news.ycombinator.com/item?id=38344232</a></p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:36:50 +0000</pubdate><link/>https://wptangerine.com/ways-to-ensure-your-wordpress-sites-cybersecurity/<dc:creator>bhattmayurshiv</dc:creator><comments>https://news.ycombinator.com/item?id=38344772</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344772</guid></item><item><title><![CDATA[技术写作要点]]></title><description><![CDATA[
+<p>Article URL: <a href="https://pressbooks.bccampus.ca/technicalwriting/">https://pressbooks.bccampus.ca/technicalwriting/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344756">https://news.ycombinator.com/item?id=38344756</a></p>
+<p>Points: 2</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:35:03 +0000</pubdate><link/>https://pressbooks.bccampus.ca/technicalwriting/<dc:creator>smackay</dc:creator><comments>https://news.ycombinator.com/item?id=38344756</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344756</guid></item><item><title><![CDATA[Android 上的 WhatsApp 备份将计入 2024 年 Google 云存储限制]]></title><description><![CDATA[
+<p>Article URL: <a href="https://support.google.com/android/thread/243899327/upcoming-changes-to-whatsapp-chat-history-backup-on-android?hl=en">https://support.google.com/android/thread/243899327/upcoming-changes-to-whatsapp-chat-history-backup-on-android?hl=en</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344741">https://news.ycombinator.com/item?id=38344741</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:34:02 +0000</pubdate><link/>https://support.google.com/android/thread/243899327/upcoming-changes-to-whatsapp-chat-history-backup-on-android?hl=en<dc:creator>wolpoli</dc:creator><comments>https://news.ycombinator.com/item?id=38344741</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344741</guid></item><item><title><![CDATA[Show HN: 结束 SSO 税的荒谬 – ssotax.org 简介]]></title><description><![CDATA[
+<p>Ever heard of the SSO Tax? In short, it's a tactic where software vendors bully security-conscious companies to upgrade to costly enterprise plans. They do this by gating SSO (Single Sign-On) features behind their priciest options, causing companies to pay up to 70 times their standard rates.<p>As a former CTO at a VC-backed and security-conscious company, I've faced the tough choice of skipping costly enterprise upgrades, even when SSO was crucial.<p>Take a look at Notion: to access SSO, they casually double their standard pricing.<p>Imagine buying a Tesla and being charged extra to unlock full braking power. That's what SSO Tax is - vendors exploiting a built-in feature, essential for security, to extract excessive fees.<p>So, why initiate a new project?<p>Rob Chahin's work on sso.tax initially highlighted this issue. However, the site's updates dwindled, and data became outdated. Despite offering assistance, I received no response, leading to the creation of <a href="https://ssotax.org" rel="nofollow noreferrer">https://ssotax.org</a>. While there has been short spike of activity post-fork, it already stopped again. That’s what we’ve seen often in the last few years. Instead, I want to give the topic the attention it deserves.<p>In addition of integrating all pending PRs and enriching the data, I’ve introduced a new feature: "Friends of SSO". We should not only call out unfair practices but also praise vendors who are committed to security!<p>Furthermore, I’d love to raise awareness about vendor practices by utilizing Twitter and Linkedin to publicly praise or critique them. The goal is to get attention for the topic, ideally sparking conversation with the vendors involved.<p>What are your thoughts on getting rid of the SSO Tax? Excited to hear your ideas!</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344733">https://news.ycombinator.com/item?id=38344733</a></p>
 <p>Points: 3</p>
-<p># Comments: 1</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:59:24 +0000</pubdate><link/>https://twitter.com/sama/status/1726510261509779876<dc:creator>zaptheimpaler</dc:creator><comments>https://news.ycombinator.com/item?id=38344232</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344232</guid></item><item><title><![CDATA[向 Techbros 销售开发工具的经验教训]]></title><description><![CDATA[
-<p>Article URL: <a href="https://old.reddit.com/r/EntrepreneurRideAlong/comments/17zjfb4/turning_my_saas_into_a_vs_code_extension_making/">https://old.reddit.com/r/EntrepreneurRideAlong/comments/17zjfb4/turning_my_saas_into_a_vs_code_extension_making/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344220">https://news.ycombinator.com/item?id=38344220</a></p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:33:32 +0000</pubdate><link/>https://ssotax.org<dc:creator>mathiasn</dc:creator><comments>https://news.ycombinator.com/item?id=38344733</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344733</guid></item><item><title><![CDATA[被赶下台的 OpenAI 首席执行官 Sam Altman 加入微软领导其新的人工智能研究团队]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.forbes.com/sites/siladityaray/2023/11/20/ousted-openai-ceo-sam-altman-joins-microsoft-to-lead-its-new-ai-research-team/">https://www.forbes.com/sites/siladityaray/2023/11/20/ousted-openai-ceo-sam-altman-joins-microsoft-to-lead-its-new-ai-research-team/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344722">https://news.ycombinator.com/item?id=38344722</a></p>
 <p>Points: 1</p>
 <p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:58:38 +0000</pubdate><link/>https://old.reddit.com/r/EntrepreneurRideAlong/comments/17zjfb4/turning_my_saas_into_a_vs_code_extension_making/<dc:creator>muragekibicho</dc:creator><comments>https://news.ycombinator.com/item?id=38344220</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344220</guid></item><item><title><![CDATA[简短的 Ruby 新闻 – 第 #68 版]]></title><description><![CDATA[
-<p>Article URL: <a href="https://newsletter.shortruby.com/p/edition-68">https://newsletter.shortruby.com/p/edition-68</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344214">https://news.ycombinator.com/item?id=38344214</a></p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:32:38 +0000</pubdate><link/>https://www.forbes.com/sites/siladityaray/2023/11/20/ousted-openai-ceo-sam-altman-joins-microsoft-to-lead-its-new-ai-research-team/<dc:creator>Brajeshwar</dc:creator><comments>https://news.ycombinator.com/item?id=38344722</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344722</guid></item><item><title><![CDATA[Mobslide：将您的智能手机变成远程演示的开源软件]]></title><description><![CDATA[
+<p>Article URL: <a href="https://github.com/thewh1teagle/mobslide">https://github.com/thewh1teagle/mobslide</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344702">https://news.ycombinator.com/item?id=38344702</a></p>
 <p>Points: 1</p>
 <p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:58:09 +0000</pubdate><link/>https://newsletter.shortruby.com/p/edition-68<dc:creator>gls2ro</dc:creator><comments>https://news.ycombinator.com/item?id=38344214</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344214</guid></item><item><title><![CDATA[伦敦的豪宅街区里堆满了公寓]]></title><description><![CDATA[
-<p>Article URL: <a href="https://www.bloomberg.com/news/features/2023-11-20/the-design-history-of-london-s-mansion-block-apartment-buildings">https://www.bloomberg.com/news/features/2023-11-20/the-design-history-of-london-s-mansion-block-apartment-buildings</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344213">https://news.ycombinator.com/item?id=38344213</a></p>
-<p>Points: 1</p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:31:33 +0000</pubdate><link/>https://github.com/thewh1teagle/mobslide<dc:creator>thunderbong</dc:creator><comments>https://news.ycombinator.com/item?id=38344702</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344702</guid></item><item><title><![CDATA[Sam Altman 是微软旗下新 AI 团队的首席执行官]]></title><description><![CDATA[
+<p>Article URL: <a href="https://twitter.com/satyanadella/status/1726516824597258569">https://twitter.com/satyanadella/status/1726516824597258569</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344644">https://news.ycombinator.com/item?id=38344644</a></p>
+<p>Points: 25</p>
+<p># Comments: 12</p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:27:23 +0000</pubdate><link/>https://twitter.com/satyanadella/status/1726516824597258569<dc:creator>alvis</dc:creator><comments>https://news.ycombinator.com/item?id=38344644</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344644</guid></item><item><title><![CDATA[Kyle Vogt 已辞去 Cruise 首席执行官职务]]></title><description><![CDATA[
+<p>Article URL: <a href="https://twitter.com/kvogt/status/1726428099217400178">https://twitter.com/kvogt/status/1726428099217400178</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344638">https://news.ycombinator.com/item?id=38344638</a></p>
+<p>Points: 2</p>
 <p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:58:08 +0000</pubdate><link/>https://www.bloomberg.com/news/features/2023-11-20/the-design-history-of-london-s-mansion-block-apartment-buildings<dc:creator>zeristor</dc:creator><comments>https://news.ycombinator.com/item?id=38344213</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344213</guid></item><item><title><![CDATA[Sam Altman、Greg Brockman 等人加入微软]]></title><description><![CDATA[
-<p>Article URL: <a href="https://twitter.com/satyanadella/status/1726509045803336122">https://twitter.com/satyanadella/status/1726509045803336122</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344196">https://news.ycombinator.com/item?id=38344196</a></p>
-<p>Points: 157</p>
-<p># Comments: 65</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:56:13 +0000</pubdate><link/>https://twitter.com/satyanadella/status/1726509045803336122<dc:creator>JimDabell</dc:creator><comments>https://news.ycombinator.com/item?id=38344196</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344196</guid></item></channel></rss>
+]]></description><pubdate>Mon, 20 Nov 2023 08:26:25 +0000</pubdate><link/>https://twitter.com/kvogt/status/1726428099217400178<dc:creator>joshuawright11</dc:creator><comments>https://news.ycombinator.com/item?id=38344638</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344638</guid></item><item><title><![CDATA[MPA 认可法国、意大利和菲律宾的网站拦截创新]]></title><description><![CDATA[
+<p>Article URL: <a href="https://torrentfreak.com/mpa-recognizes-france-italy-and-philippines-for-site-blocking-innovations-231118/">https://torrentfreak.com/mpa-recognizes-france-italy-and-philippines-for-site-blocking-innovations-231118/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344623">https://news.ycombinator.com/item?id=38344623</a></p>
+<p>Points: 2</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:25:20 +0000</pubdate><link/>https://torrentfreak.com/mpa-recognizes-france-italy-and-philippines-for-site-blocking-innovations-231118/<dc:creator>isaacfrond</dc:creator><comments>https://news.ycombinator.com/item?id=38344623</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344623</guid></item></channel></rss>

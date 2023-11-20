@@ -1,56 +1,56 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>黑客新闻：头版</title><link/>https://news.ycombinator.com/<description>黑客新闻 RSS</description><docs> https://hnrss.org/</docs><generator>人力资源服务 v2.1.1</generator><lastbuilddate> 2023 年 11 月 20 日星期一 08:13:36 +0000</lastbuilddate><atom:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml"></atom:link><item><description><![CDATA[
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>黑客新闻：头版</title><link/>https://news.ycombinator.com/<description>黑客新闻 RSS</description><docs> https://hnrss.org/</docs><generator>人力资源服务 v2.1.1</generator><lastbuilddate> 2023 年 11 月 20 日星期一 08:43:43 +0000</lastbuilddate><atom:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml"></atom:link><item><description><![CDATA[
+<p>Article URL: <a href="https://twitter.com/satyanadella/status/1726516824597258569">https://twitter.com/satyanadella/status/1726516824597258569</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344644">https://news.ycombinator.com/item?id=38344644</a></p>
+<p>Points: 23</p>
+<p># Comments: 10</p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:27:23 +0000</pubdate><link/>https://twitter.com/satyanadella/status/1726516824597258569<dc:creator>alvis</dc:creator><comments>https://news.ycombinator.com/item?id=38344644</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344644</guid></item><item><title><![CDATA[微软刚刚聘请 Sam 和 Greg 来领导一个新的高级 AI 研究团队]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.axios.com/2023/11/20/microsoft-hires-sam-altman-and-greg-brockman-to-lead-new-ai-research-unit">https://www.axios.com/2023/11/20/microsoft-hires-sam-altman-and-greg-brockman-to-lead-new-ai-research-unit</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344477">https://news.ycombinator.com/item?id=38344477</a></p>
+<p>Points: 32</p>
+<p># Comments: 6</p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:15:08 +0000</pubdate><link/>https://www.axios.com/2023/11/20/microsoft-hires-sam-altman-and-greg-brockman-to-lead-new-ai-research-unit<dc:creator>mrafii</dc:creator><comments>https://news.ycombinator.com/item?id=38344477</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344477</guid></item><item><title><![CDATA[微软聘请前 OpenAI 首席执行官 Sam Altman]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai">https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344385">https://news.ycombinator.com/item?id=38344385</a></p>
+<p>Points: 58</p>
+<p># Comments: 18</p>
+]]></description><pubdate>Mon, 20 Nov 2023 08:08:52 +0000</pubdate><link/>https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai<dc:creator>alvis</dc:creator><comments>https://news.ycombinator.com/item?id=38344385</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344385</guid></item><item><title><![CDATA[Sam Altman、Greg Brockman 等人加入微软]]></title><description><![CDATA[
 <p>Article URL: <a href="https://twitter.com/satyanadella/status/1726509045803336122">https://twitter.com/satyanadella/status/1726509045803336122</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344196">https://news.ycombinator.com/item?id=38344196</a></p>
-<p>Points: 194</p>
-<p># Comments: 84</p>
+<p>Points: 443</p>
+<p># Comments: 305</p>
 ]]></description><pubdate>Mon, 20 Nov 2023 07:56:13 +0000</pubdate><link/>https://twitter.com/satyanadella/status/1726509045803336122<dc:creator>JimDabell</dc:creator><comments>https://news.ycombinator.com/item?id=38344196</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344196</guid></item><item><title><![CDATA[RSS可以用来发布各种信息]]></title><description><![CDATA[
 <p>Article URL: <a href="https://colinwalker.blog/blog/?date=2023-11-19">https://colinwalker.blog/blog/?date=2023-11-19</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343385">https://news.ycombinator.com/item?id=38343385</a></p>
-<p>Points: 36</p>
-<p># Comments: 11</p>
-]]></description><pubdate>Mon, 20 Nov 2023 06:29:01 +0000</pubdate><link/>https://colinwalker.blog/blog/?date=2023-11-19<dc:creator>walterbell</dc:creator><comments>https://news.ycombinator.com/item?id=38343385</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343385</guid></item><item><title><![CDATA[TIL 你可以使用 matplotlib 制作类似 xkcd 的图]]></title><description><![CDATA[
-<p>Article URL: <a href="https://matplotlib.org/stable/gallery/showcase/xkcd.html">https://matplotlib.org/stable/gallery/showcase/xkcd.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343203">https://news.ycombinator.com/item?id=38343203</a></p>
-<p>Points: 61</p>
-<p># Comments: 15</p>
-]]></description><pubdate>Mon, 20 Nov 2023 06:10:46 +0000</pubdate><link/>https://matplotlib.org/stable/gallery/showcase/xkcd.html<dc:creator>bobsacamano19</dc:creator><comments>https://news.ycombinator.com/item?id=38343203</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343203</guid></item><item><title><![CDATA[随着 Altman 谈判破裂，Emmett Shear 成为 OpenAI 临时首席执行官]]></title><description><![CDATA[
+<p>Points: 48</p>
+<p># Comments: 25</p>
+]]></description><pubdate>Mon, 20 Nov 2023 06:29:01 +0000</pubdate><link/>https://colinwalker.blog/blog/?date=2023-11-19<dc:creator>walterbell</dc:creator><comments>https://news.ycombinator.com/item?id=38343385</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343385</guid></item><item><title><![CDATA[Krita AI 扩散]]></title><description><![CDATA[
+<p>Article URL: <a href="https://github.com/Acly/krita-ai-diffusion">https://github.com/Acly/krita-ai-diffusion</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38342670">https://news.ycombinator.com/item?id=38342670</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+]]></description><pubdate>Mon, 20 Nov 2023 05:22:12 +0000</pubdate><link/>https://github.com/Acly/krita-ai-diffusion<dc:creator>unstuck3958</dc:creator><comments>https://news.ycombinator.com/item?id=38342670</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38342670</guid></item><item><title><![CDATA[随着 Altman 谈判破裂，Emmett Shear 成为 OpenAI 临时首席执行官]]></title><description><![CDATA[
 <p>Article URL: <a href="https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo">https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38342643">https://news.ycombinator.com/item?id=38342643</a></p>
-<p>Points: 456</p>
-<p># Comments: 761</p>
+<p>Points: 472</p>
+<p># Comments: 793</p>
 ]]></description><pubdate>Mon, 20 Nov 2023 05:19:57 +0000</pubdate><link/>https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo<dc:creator>andsoitis</dc:creator><comments>https://news.ycombinator.com/item?id=38342643</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38342643</guid></item><item><title><![CDATA[Setenv 不是线程安全的，C 不想修复它]]></title><description><![CDATA[
 <p>Article URL: <a href="https://www.evanjones.ca/setenv-is-not-thread-safe.html">https://www.evanjones.ca/setenv-is-not-thread-safe.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38342642">https://news.ycombinator.com/item?id=38342642</a></p>
-<p>Points: 42</p>
-<p># Comments: 25</p>
+<p>Points: 51</p>
+<p># Comments: 32</p>
 ]]></description><pubdate>Mon, 20 Nov 2023 05:19:56 +0000</pubdate><link/>https://www.evanjones.ca/setenv-is-not-thread-safe.html<dc:creator>r4um</dc:creator><comments>https://news.ycombinator.com/item?id=38342642</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38342642</guid></item><item><title><![CDATA[在本地捕获并测试 AWS SES 电子邮件]]></title><description><![CDATA[
 <p>Article URL: <a href="https://github.com/kamranahmedse/local-ses">https://github.com/kamranahmedse/local-ses</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38341035">https://news.ycombinator.com/item?id=38341035</a></p>
-<p>Points: 25</p>
-<p># Comments: 6</p>
-]]></description><pubdate>Mon, 20 Nov 2023 01:38:46 +0000</pubdate><link/>https://github.com/kamranahmedse/local-ses<dc:creator>anonfunction</dc:creator><comments>https://news.ycombinator.com/item?id=38341035</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38341035</guid></item><item><title><![CDATA[Cosmopolitan v3.1]]></title><description><![CDATA[
-<p>Article URL: <a href="https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA">https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38340431">https://news.ycombinator.com/item?id=38340431</a></p>
-<p>Points: 91</p>
-<p># Comments: 23</p>
-]]></description><pubdate>Mon, 20 Nov 2023 00:32:07 +0000</pubdate><link/>https://twitter.com/justinetunney/status/1726141024597324189?s=46&amp;t=K1nIh-2Y7JjaoOc9Y6bUzA<dc:creator>sgammon</dc:creator><comments>https://news.ycombinator.com/item?id=38340431</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38340431</guid></item><item><title><![CDATA[朋友不要让朋友做出不好的图表]]></title><description><![CDATA[
+<p>Points: 30</p>
+<p># Comments: 10</p>
+]]></description><pubdate>Mon, 20 Nov 2023 01:38:46 +0000</pubdate><link/>https://github.com/kamranahmedse/local-ses<dc:creator>anonfunction</dc:creator><comments>https://news.ycombinator.com/item?id=38341035</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38341035</guid></item><item><title><![CDATA[朋友不要让朋友做出不好的图表]]></title><description><![CDATA[
 <p>Article URL: <a href="https://github.com/cxli233/FriendsDontLetFriends">https://github.com/cxli233/FriendsDontLetFriends</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38340226">https://news.ycombinator.com/item?id=38340226</a></p>
-<p>Points: 319</p>
-<p># Comments: 47</p>
+<p>Points: 324</p>
+<p># Comments: 49</p>
 ]]></description><pubdate>Mon, 20 Nov 2023 00:13:24 +0000</pubdate><link/>https://github.com/cxli233/FriendsDontLetFriends<dc:creator>ZunarJ5</dc:creator><comments>https://news.ycombinator.com/item?id=38340226</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38340226</guid></item><item><title><![CDATA[参观芝加哥西尔斯房屋之旅]]></title><description><![CDATA[
 <p>Article URL: <a href="https://www.searshouseseeker.com/?m=0">https://www.searshouseseeker.com/?m=0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38340188">https://news.ycombinator.com/item?id=38340188</a></p>
-<p>Points: 58</p>
-<p># Comments: 23</p>
-]]></description><pubdate>Mon, 20 Nov 2023 00:10:16 +0000</pubdate><link/>https://www.searshouseseeker.com/?m=0<dc:creator>davetron5000</dc:creator><comments>https://news.ycombinator.com/item?id=38340188</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38340188</guid></item><item><title><![CDATA[末日复制者 (2022)]]></title><description><![CDATA[
-<p>Article URL: <a href="https://github.com/simoninns/DomesdayDuplicator/wiki">https://github.com/simoninns/DomesdayDuplicator/wiki</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38339715">https://news.ycombinator.com/item?id=38339715</a></p>
-<p>Points: 40</p>
-<p># Comments: 13</p>
-]]></description><pubdate>Sun, 19 Nov 2023 23:23:41 +0000</pubdate><link/>https://github.com/simoninns/DomesdayDuplicator/wiki<dc:creator>zeristor</dc:creator><comments>https://news.ycombinator.com/item?id=38339715</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38339715</guid></item><item><title><![CDATA[泰克陶瓷 CRT“地下墓穴”之旅]]></title><description><![CDATA[
-<p>Article URL: <a href="https://vintagetek.org/tour-crt-catacombs/">https://vintagetek.org/tour-crt-catacombs/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38339092">https://news.ycombinator.com/item?id=38339092</a></p>
-<p>Points: 58</p>
-<p># Comments: 21</p>
-]]></description><pubdate>Sun, 19 Nov 2023 22:29:21 +0000</pubdate><link/>https://vintagetek.org/tour-crt-catacombs/<dc:creator>dangle1</dc:creator><comments>https://news.ycombinator.com/item?id=38339092</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38339092</guid></item></channel></rss>
+<p>Points: 62</p>
+<p># Comments: 26</p>
+]]></description><pubdate>Mon, 20 Nov 2023 00:10:16 +0000</pubdate><link/>https://www.searshouseseeker.com/?m=0<dc:creator>davetron5000</dc:creator><comments>https://news.ycombinator.com/item?id=38340188</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38340188</guid></item></channel></rss>
