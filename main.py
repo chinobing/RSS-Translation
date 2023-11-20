@@ -125,8 +125,8 @@ def tran(sec):
     with open(out_dir,'w',encoding='utf-8') as f:
         c=content
 
-        c=c.replace('&lt;','') 
-        c=c.replace('&gt;','') 
+        c=c.replace('&lt;','<') 
+        c=c.replace('&gt;','>') 
 
         f.write(c)
 
