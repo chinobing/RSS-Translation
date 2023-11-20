@@ -1,4 +1,26 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>黑客新闻：最新</title><link/>https://news.ycombinator.com/newest<description>黑客新闻 RSS</description><docs> https://hnrss.org/</docs><generator>人力资源服务 v2.1.1</generator><lastbuilddate> 2023 年 11 月 20 日星期一 07:34:11 +0000 </lastbuilddate><atom:link href="https://hnrss.org/newest" rel="self" type="application/rss+xml"></atom:link><item><description><![CDATA[
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>黑客新闻：最新</title><link/>https://news.ycombinator.com/newest<description>黑客新闻 RSS</description><docs> https://hnrss.org/</docs><generator>人力资源服务 v2.1.1</generator><lastbuilddate> 2023 年 11 月 20 日星期一 07:44:13 +0000 </lastbuilddate><atom:link href="https://hnrss.org/newest" rel="self" type="application/rss+xml"></atom:link><item><description><![CDATA[
+<p>Article URL: <a href="https://standupeconomist.com/pdf/misc/interstellar.pdf">https://standupeconomist.com/pdf/misc/interstellar.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38344026">https://news.ycombinator.com/item?id=38344026</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:38:50 +0000</pubdate><link/>https://standupeconomist.com/pdf/misc/interstellar.pdf<dc:creator>jamager</dc:creator><comments>https://news.ycombinator.com/item?id=38344026</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38344026</guid></item><item><title>![CDATA[问 HN：如果你在 ChatGPT 上建立了一家初创公司，你现在有多担心？]]</title><description><![CDATA[
+<p>Over the past year or so, quite a few people built relatively successful, small startups on top of ChatGPT. For those of you who fall into this category or who are in the process of developing/launching a startup that falls into this category, how worried are you after the drama that has unfolded since Friday? Can you give insight as to why you are/are not worried?<p>Just to clarify, I am not referring to people who had existing startups and added a feature to their startup that uses ChatGPT. I am specifically referring to those people where ChatGPT is central to your startup, and your startup would not exist if not for ChatGPT.<p>The AI startup wave passed me, so I have no horse in this race. I am also not very clued up on all the AI technologies, so forgive my ignorance. To me, it seems that this would be concerning if I had a startup that existed purely because of ChatGPT.</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343998">https://news.ycombinator.com/item?id=38343998</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:35:21 +0000</pubdate><link/>https://news.ycombinator.com/item?id=38343998<dc:creator>jerriep</dc:creator><comments>https://news.ycombinator.com/item?id=38343998</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343998</guid></item><item><title>![CDATA[Show HN: Dream Generator – AI 艺术乐趣]]</title><description><![CDATA[
+<p>Learn to draw quick with AI! It's an Android and iOS app that lets you generate and share AI. Let me know your thoughts!</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343989">https://news.ycombinator.com/item?id=38343989</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:33:43 +0000</pubdate><link/>https://dreamgenerator.ai<dc:creator>h_tbob</dc:creator><comments>https://news.ycombinator.com/item?id=38343989</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343989</guid></item><item><title>![CDATA[Show HN：连接 Web2 和 Web3 的游戏规则改变者 SaaS – Postschain]]</title><description><![CDATA[
+<p>Article URL: <a href="https://postschain.com">https://postschain.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343972">https://news.ycombinator.com/item?id=38343972</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubdate>Mon, 20 Nov 2023 07:32:28 +0000</pubdate><link/>https://postschain.com<dc:creator>Palayoub</dc:creator><comments>https://news.ycombinator.com/item?id=38343972</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343972</guid></item><item><title>![CDATA[架构模式：断路器]]</title><description><![CDATA[
 <p>Article URL: <a href="https://lab.scub.net/architecture-patterns-the-circuit-breaker-8f79280771f1">https://lab.scub.net/architecture-patterns-the-circuit-breaker-8f79280771f1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343957">https://news.ycombinator.com/item?id=38343957</a></p>
 <p>Points: 1</p>
@@ -33,24 +55,4 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343933">https://news.ycombinator.com/item?id=38343933</a></p>
 <p>Points: 1</p>
 <p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:27:42 +0000</pubdate><link/>https://www.n16f.net/blog/interactive-common-lisp-development/<dc:creator>billiob</dc:creator><comments>https://news.ycombinator.com/item?id=38343933</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343933</guid></item><item><title>![CDATA[为什么临床试验过程如此糟糕以及如何改进]]</title><description><![CDATA[
-<p>Article URL: <a href="https://bessstillman.substack.com/p/please-be-dying-but-not-too-quickly-837">https://bessstillman.substack.com/p/please-be-dying-but-not-too-quickly-837</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343916">https://news.ycombinator.com/item?id=38343916</a></p>
-<p>Points: 1</p>
-<p># Comments: 1</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:26:11 +0000</pubdate><link/>https://bessstillman.substack.com/p/please-be-dying-but-not-too-quickly-837<dc:creator>vwoolf</dc:creator><comments>https://news.ycombinator.com/item?id=38343916</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343916</guid></item><item><title>![CDATA[将一个小型项目从 Next 迁移到 Remix]]</title><description><![CDATA[
-<p>Article URL: <a href="https://old.reddit.com/r/reactjs/comments/17ysqus/migrated_a_smallish_project_from_next_to_remix/">https://old.reddit.com/r/reactjs/comments/17ysqus/migrated_a_smallish_project_from_next_to_remix/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343899">https://news.ycombinator.com/item?id=38343899</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:24:32 +0000</pubdate><link/>https://old.reddit.com/r/reactjs/comments/17ysqus/migrated_a_smallish_project_from_next_to_remix/<dc:creator>0xblinq</dc:creator><comments>https://news.ycombinator.com/item?id=38343899</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343899</guid></item><item><title>![CDATA[美国潜艇全面统治中国的时代正在结束]]</title><description><![CDATA[
-<p>Article URL: <a href="https://www.wsj.com/world/china/us-submarine-dominance-shift-china-8db10a0d">https://www.wsj.com/world/china/us-submarine-dominance-shift-china-8db10a0d</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343896">https://news.ycombinator.com/item?id=38343896</a></p>
-<p>Points: 1</p>
-<p># Comments: 1</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:24:26 +0000</pubdate><link/>https://www.wsj.com/world/china/us-submarine-dominance-shift-china-8db10a0d<dc:creator>vwoolf</dc:creator><comments>https://news.ycombinator.com/item?id=38343896</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343896</guid></item><item><title>![CDATA[沙特资金返回硅谷]]</title><description><![CDATA[
-<p>Article URL: <a href="https://www.vox.com/technology/2023/5/1/23702451/silicon-valley-saudi-money-khashoggi">https://www.vox.com/technology/2023/5/1/23702451/silicon-valley-saudi-money-khashoggi</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=38343878">https://news.ycombinator.com/item?id=38343878</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>
-]]></description><pubdate>Mon, 20 Nov 2023 07:21:48 +0000</pubdate><link/>https://www.vox.com/technology/2023/5/1/23702451/silicon-valley-saudi-money-khashoggi<dc:creator>RafelMri</dc:creator><comments>https://news.ycombinator.com/item?id=38343878</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343878</guid></item></channel></rss>
+]]></description><pubdate>Mon, 20 Nov 2023 07:27:42 +0000</pubdate><link/>https://www.n16f.net/blog/interactive-common-lisp-development/<dc:creator>billiob</dc:creator><comments>https://news.ycombinator.com/item?id=38343933</comments><guid ispermalink="false">https://news.ycombinator.com/item?id=38343933</guid></item></channel></rss>
