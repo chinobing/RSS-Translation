@@ -92,12 +92,11 @@ def tran(sec):
         if idx >max_item:
                 e.decompose()
     
-    content= str(soup)
+    content= str(soup).replace("<![CDATA[","").replace("]]>","")
     
     content=content.replace('title>', 'stitle>')
     content=content.replace( '<pubdate>','<pubDate><span translate="no">')
     content=content.replace( '</pubdate>','</span></pubdate>')
-    content=content.replace( '<![CDATA[','CDATA[')
     # print(content)
     
     
@@ -111,8 +110,6 @@ def tran(sec):
         c=c.replace('<span translate="no">', '')
         c=c.replace('</span></pubdate>', '</pubDate>') # 对于ttrss需要为pubDate才会识别正确
         c=c.replace('&gt','>') # &gt 会影响识别
-        c=c.replace('CDATA[','<![CDATA[')
-        c=c.replace(']]>;',']]>')
         
         f.write(c)
         #print(c)
