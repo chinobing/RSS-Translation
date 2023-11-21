@@ -112,6 +112,7 @@ def tran(sec):
         c=c.replace('</span></pubdate>', '</pubDate>') # 对于ttrss需要为pubDate才会识别正确
         c=c.replace('&gt','>') # &gt 会影响识别
         c=c.replace('CDATA[','<![CDATA[')
+        c=c.replace(']]>;',']]>')
         
         f.write(c)
         #print(c)
