@@ -16,7 +16,7 @@
  - source003 [https://www.ted.com/feeds/talks.rss](https://www.ted.com/feeds/talks.rss) -> [ted_talks_rss.xml](rss/ted_talks_rss.xml)
  - source004 [https://www.reddit.com/.rss](https://www.reddit.com/.rss) -> [reddit_front_page.xml](rss/reddit_front_page.xml)
  - source005 [https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml](https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml) -> [nytimes_HomePage.xml](rss/nytimes_HomePage.xml)
- - source0056 [https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml](https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml) -> [WSJcomUSBusiness.xml](rss/WSJcomUSBusiness.xml)
+ - source006 [https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml](https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml) -> [WSJcomUSBusiness.xml](rss/WSJcomUSBusiness.xml)
  - source007 [https://feeds.a.dj.com/rss/RSSMarketsMain.xml](https://feeds.a.dj.com/rss/RSSMarketsMain.xml) -> [WSJMarketsMain.xml](rss/WSJMarketsMain.xml)
  - source008 [https://feeds.a.dj.com/rss/RSSWorldNews.xml](https://feeds.a.dj.com/rss/RSSWorldNews.xml) -> [WSJWorldNews.xml](rss/WSJWorldNews.xml)
  - source009 [https://feeds.a.dj.com/rss/RSSWSJD.xml](https://feeds.a.dj.com/rss/RSSWSJD.xml) -> [WSJWSJD.xml](rss/WSJWSJD.xml)
